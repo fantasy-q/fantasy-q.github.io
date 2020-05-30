@@ -1,35 +1,72 @@
 # Welcome to Jekyll!
-# Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Site settings 
 author: Phantasma
 title: Phantasma's Blog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   慢慢来，总能学会的。
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fantasy-q.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fantasy-q.github.io/" 
+# the base hostname & protocol for your site, e.g. http://example.com
+date_format: "%b %-d, %Y"
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  skin: classic
-  date_format: "%b %-d, %Y"
+header_pages:
+ - about.markdown
+#  - content.markdown
 
-  # generate social links in footer
+google_analytics:
 
-  social_links:
-    github: fantasy-q
-    bilibili: '5447176'
+# Optional features
+animated:             true
+show_post_footers:    false
+show_social_icons:    true
+
+# Preview image for social media aka og:image and twitter:image
+post_preview_image: false
+
+# Disqus post comments
+disqus_shortname:
+
+# Social icons
+github_username: fantasy-q
+bilibili_uid: '5447176'
+
+text:
+  pagination:
+    newer: 'PREV'
+    older: 'NEXT'
+  post:
+    updated:        'Updated'
+    minute_read:    'minute read'
+  index:
+    coming_soon: 'Coming soon...'
 
 # Build settings
-# theme: minima
+markdown:     kramdown
+paginate:     4
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    :title
+
+sass:
+  style: compressed
+
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - vendor
 
 # Exclude from processing.
 # The following items will not be processed, by default.

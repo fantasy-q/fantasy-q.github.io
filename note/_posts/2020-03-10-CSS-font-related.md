@@ -22,7 +22,7 @@ body {
 ```
 每个`font-family`包含一组相同特征的字体，共 5 类，每类都包含大量字体：
 
-| font-family | -- | font | -- |
+| FontFamily | Meaning | Font | Description |
 | ---- | ----  | ---- | ---- |
 | sans-serif | 无衬线 | Verdana, Arial Black, Trebuchet MS, Arial, Geneva | 常用于计算机显示 |
 | serif | 有衬线 | Times, Times New Roman, Georgia | 常用于印刷 |
@@ -36,7 +36,7 @@ body {
 ### 常用字体格式
 
 | Extension | Full Name | Description  |
-| -- | -- | -- |
+| ---- | ---- | ---- |
 | .ttf | True Type Font | ttf 与 otf 两者紧密相关 |
 | .otf | Open Type Font | 建立在 ttf 的基础上，比 ttf 新 |
 | .eot | Embedded Open Type | otf 的压缩格式，微软专用，仅 IE 提供支持 |
@@ -64,7 +64,7 @@ body {
 ```
 
 | CSS | Meaning | How to use | Description |
-| -- | -- | -- | -- |
+| ---- | ---- | ---- | ---- |
 | px | pixel | font-size: 14px | 字母高度，单位像素 |
 | % | percentage | font-size: 150% | 相对于父元素的百分数 |
 | em | scaling factor | font-size: 1.2em | 相对于父元素的倍数 |
@@ -103,7 +103,7 @@ body {
 }
 ```
 
-| -- | -- | -- |
+| ---- | ---- | ---- |
 | italic | 斜体 | 斜体是人为设计的一种风格，并非所有字体都支持 |
 | oblique | 倾斜 | 倾斜只是浏览器将正常文字倾斜了，不支持斜体则为倾斜 |
 | overline | 上划线 |  |
@@ -116,5 +116,5 @@ body {
 	- 所以避免使用`<em>`来将文字变成斜体
 	- 通过 CSS 指定`<em>`的样式，可使其表现为其他形式
 
-Reference
+###### Reference
 [1] **Head First HTML and CSS, 2nd Edition**
