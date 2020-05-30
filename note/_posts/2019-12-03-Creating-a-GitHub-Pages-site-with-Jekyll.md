@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  用 Jekyll 搭建 GitHub Pages
+title: 如何搭建网站
 date:   2019-12-03 22:00:07 +0800
+summary:  用 Jekyll 搭建 GitHub Pages
 categories: note
 published: true
 ---

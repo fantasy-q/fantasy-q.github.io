@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "用 Jekyll 给网站添加主题"
+title: "给网站添加主题"
 date: 2019-12-04 20:24:00 +0800
+summary: 用 Jekyll 给 GitHub Page 添加主题
 categories: note
 published: true
 ---
-
-\[1] [Adding a theme to your GitHub Pages site using Jekyll - GitHub](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll)
-
-\[2] [Themes - Jekyllrb](https://jekyllrb.com/docs/themes/)
 
 ## 主题 Themes
 
@@ -108,9 +105,8 @@ You can find these plugins in the theme’s gemspec file as runtime dependencies
 
 gem "jekyll-feed", "~> 0.12"
 gem "jekyll-seo-tag", "~> 2.6"
-```
 
-```
+
 # ./_config.yml
 
 plugins:
@@ -139,3 +135,8 @@ Finally, remove references to the theme gem in `Gemfile` and configuration. For 
 - Open `_config.yml` and remove `theme: minima`.
 
 Now `bundle update` will no longer get updates for the theme gem.
+
+###### References
+\[1] [Adding a theme to your GitHub Pages site using Jekyll - GitHub](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll)
+
+\[2] [Themes - Jekyllrb](https://jekyllrb.com/docs/themes/)

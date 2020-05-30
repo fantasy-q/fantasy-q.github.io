@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "用 Jekyll 添加 Content 到 GitHub Pages"
+title:  给网站添加内容
 date:   2019-12-03 20:00:07 +0800
+summary: 用 Jekyll 添加 Content 到 GitHub Pages
 categories: note
 published: true
 ---
