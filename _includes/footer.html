@@ -15,16 +15,16 @@
               {{ site.title | escape }}
             {%- endif -%}
             </li>
-            {%- if site.email -%}
+            <!-- {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+            {%- endif -%} -->
         </ul>
         <p>{{- site.description | escape -}}</p>
       </div>
 
-      <div class="footer-col footer-col-2">
+      <!-- <div class="footer-col footer-col-2">
         {%- include social.html -%}
-      </div>
+      </div> -->
 
       <div class="footer-col footer-col-3">
         <p>Copyright © 2019-{{ site.time | date: "%Y" }} {{ site.author }}</p>
