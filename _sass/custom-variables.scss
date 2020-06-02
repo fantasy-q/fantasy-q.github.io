@@ -1,6 +1,24 @@
 // Placeholder to allow overriding predefined variables smoothly.
 
-// @font-face {
-//     font-family: 'source-han-serif-sc';
-//     src: url("../fonts/SourceHanSerifCN-Heavy.otf");
-// }
+/*******************
+ * Heavy       900 *
+ * Bold        700 *
+ * SemiBold    600 *
+ * Medium      500 *
+ * Regular     400 *
+ * Light       300 *
+ * Ex-Light    200 *
+********************/
+
+@font-face {
+    font-family: 'source-han-serif-sc';
+    src: url("../fonts/SourceHanSerifCN-Heavy.otf");
+}
+
+@font-face {
+    font-family: 'source-han-serif-japanese';
+    src: url("../fonts/SourceHanSerifJP-SemiBold.otf");
+    src: url("../fonts/SourceHanSerifJP-Medium.otf");
+    src: url("../fonts/SourceHanSerifJP-Light.otf");
+    src: url("../fonts/SourceHanSerifJP-ExtraLight.otf");
+}

@@ -49,10 +49,10 @@ text:
 
 # Build settings
 markdown:     kramdown
-paginate:     4
+paginate:     5
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    :title
+permalink: none
 
 sass:
   style: compressed

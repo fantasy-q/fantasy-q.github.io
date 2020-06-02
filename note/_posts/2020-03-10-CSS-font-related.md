@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "CSS 笔记（字体篇）"
+title:  CSS 字体学习笔记
 date:   2020-03-10 18:00:00 +0800
+summary: 关于 CSS 中字体的一些相关内容
 categories: note
 published: true
 ---
-- [设置字体](#font-family-定制页面中的字体)
+- [设置字体](#定制页面中的字体)
 	- [常用字体格式](#常用字体格式)
-- [字体大小](#font-size-控制字体大小)
-- [字体颜色](#color-为文本添加颜色)
-- [字体粗细](font-weight 影响字体粗细)
-- [字体样式](font-decoration 为文本增加样式)
+- [字号大小](#控制字号大小)
+- [文本颜色](#为文本添加颜色)
+- [字体粗细](#影响字体粗细)
+- [其他样式](#为文本增加样式)
 
-## font-family 定制页面中的字体
+## 定制页面中的字体
 **Customize the fonts in your pages with the font-family property.**
-
 ```css
 body {
     font-family: Verdana, Geneva, Arial, sans-serif
@@ -55,7 +55,7 @@ body {
 - 使用 Web 字体时，第一次加载可能比较费时间
 - Web 字体托管服务：[FontSquirrel](http:/www.fontsquirrel.com/)、[Google Fonts](https://fonts.google.com/)
 
-## font-size 控制字体大小
+##  控制字号大小
 **Control the size of your fonts with the font-size property.**
 ```css
 body {
@@ -68,7 +68,7 @@ body {
 | px | pixel | font-size: 14px | 字母高度，单位像素 |
 | % | percentage | font-size: 150% | 相对于父元素的百分数 |
 | em | scaling factor | font-size: 1.2em | 相对于父元素的倍数 |
-| keyword | keyword | font-size: medium | xx-large, smaller 等多个关键字 |
+| --- | keyword | font-size: medium | xx-large, smaller 等多个关键字 |
 
 - 建议使用关键字在`body`中定义页面的默认大小 
 - 在其他元素中使用相对方式定义字体大小
@@ -78,7 +78,7 @@ body {
 	- `<h>`依次为 200%, 150%, 120%, 100%, 90%, 60%
 	- 在`<body>`中使用`em`、`%`，即相对于默认`16px`的大小
 
-## color 为文本添加颜色
+## 为文本添加颜色
 **Add color to your text with the color property.**
 ```css
 body {
@@ -86,7 +86,7 @@ body {
 }
 ```
 
-## font-weight 影响字体粗细
+##  影响字体粗细
 **Affect the weight of your fonts with the font-weight property.**
 ```css
 body {
@@ -95,7 +95,7 @@ body {
 ```
 - 可选属性：`bold`, `normal`, `lighter`, `bolder`
 
-## font-decoration 为文本增加样式
+## 为文本增加样式
 **Add even more style to your text with the text-decoration property.**
 ```css
 body {
