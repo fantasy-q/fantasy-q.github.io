@@ -12,6 +12,42 @@
 //     writing-mode: vertical-rl;
 // }
 
+
+.lyric-title {
+    font-family: $sh-sf-h-jp;
+    font-size: $h0;
+}
+
+.lyric-description{
+    font-family: $sh-sf-sb-jp;
+    font-size: $h3;
+    line-height: $h0;
+}
+
+.lyric-content {
+    & p {
+        font-family: $sh-sf-l-jp;
+        font-size: $h2;
+        line-height: $h0;
+    }
+    & p rt {
+        font-family: $sh-sf-b-jp;
+    }
+    & sup {
+        font-size: $h6;
+    }
+    & h6 {
+        text-align: left;
+    }
+    & .footnotes {
+        & p {
+            font-size: $h5;
+            line-height: $h3;
+            text-align: left;
+        }
+    }    
+}
+
 h1{
     font-family: $sh-sf-h-cn;
     font-size: $h0;
@@ -32,40 +68,3 @@ h4, h5, h6 {
 .post-content{
     font-family: $sh-sf-r-cn;
 }
-
-.lyric-title {
-    font-family: $sh-sf-h-jp;
-    font-size: $h0;
-}
-
-.lyric-description{
-    font-family: $sh-sf-sb-jp;
-    font-size: $h3;
-    line-height: $h0;
-}
-
-.lyric-content {
-    & p {
-        font-family: $sh-sf-l-jp;
-        font-size: 32px;
-        line-height: $h00;
-    }
-    & p rt {
-        font-family: $sh-sf-b-jp;
-    }
-    & sup {
-        font-size: 16px;
-    }
-    & h6 {
-        text-align: left;
-    }
-    & .footnotes {
-        & p {
-            font-size: 18px;
-            line-height: $h3;
-            text-align: left;
-        }
-    }    
-}
-
-
