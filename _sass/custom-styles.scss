@@ -1,17 +1,71 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/custom-variables.scss` to override variable defaults)
 
-h1.post-title {
-    font-family: 'source-han-serif-sc';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 48px;
+// .jp {
+//     font-family: $source-han-serif-jp;
+// }
+// .sc {
+//     font-family: $source-han-serif-sc;
+// }
+
+// .vertical {
+//     writing-mode: vertical-rl;
+// }
+
+h1{
+    font-family: $sh-sf-h-cn;
+    font-size: $h0;
 }
 
-.post-lyric {
-    line-height: 300%;
-    font-family:'source-han-serif-japanese';
-    font-weight: 500;
-    // font-style: normal;
-    font-size: 48px;
+h2{
+    font-family: $sh-sf-b-cn;
 }
+
+h3{
+    font-family: $sh-sf-m-cn;
+}
+
+h4, h5, h6 {
+    font-family: $sh-sf-r-cn;
+}
+
+.post-content{
+    font-family: $sh-sf-r-cn;
+}
+
+.lyric-title {
+    font-family: $sh-sf-h-jp;
+    font-size: $h0;
+}
+
+.lyric-description{
+    font-family: $sh-sf-sb-jp;
+    font-size: $h3;
+    line-height: $h0;
+}
+
+.lyric-content {
+    & p {
+        font-family: $sh-sf-l-jp;
+        font-size: 32px;
+        line-height: $h00;
+    }
+    & p rt {
+        font-family: $sh-sf-b-jp;
+    }
+    & sup {
+        font-size: 16px;
+    }
+    & h6 {
+        text-align: left;
+    }
+    & .footnotes {
+        & p {
+            font-size: 18px;
+            line-height: $h3;
+            text-align: left;
+        }
+    }    
+}
+
+

@@ -8,10 +8,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
     content="{% if page.meta_description %}{{ page.meta_description | xml_escape }}{% elsif page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
-  {% if page.meta_robots %}
-  <meta name="robots" content="{{ page.meta_robots }}">
-  {% else %}
-  <meta name="robots" content="all">{% endif %}
   <meta name="author" content="{{ site.author }}">
   {% if page.categories %}
   <meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
@@ -19,22 +15,22 @@
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}"
     href="{{ '/feed.xml' | relative_url }}" />
 
+  <!-- Custom Font --> 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}?{{ site.time | date: '%Y%m%d%H%M' }}"
+  <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}?{{ site.time | date: '%Y%m%d%H%M' }}"
     type="text/css">
+  
 
-  <!-- Fonts -->
-  <!-- Source HAN -->
-  <!-- <script>(function (d) {
+  <script>(function (d) {
       var config = { kitId: 'vzq2uys', scriptTimeout: 3000, async: true },
-      h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
-    })(document);</script> -->
+        h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
+    })(document);</script>
 
   <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet'
     type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
 
-  {% if site.show_social_icons or site.show_sharing_icons %}
+  {% if site.show_social_icons %}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/v4-shims.min.css">
   {% endif %}

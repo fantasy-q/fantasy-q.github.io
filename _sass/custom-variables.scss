@@ -1,24 +1,17 @@
 // Placeholder to allow overriding predefined variables smoothly.
 
-/*******************
- * Heavy       900 *
- * Bold        700 *
- * SemiBold    600 *
- * Medium      500 *
- * Regular     400 *
- * Light       300 *
- * Ex-Light    200 *
-********************/
+$sh-sf-h-jp: source-han-serif-japanese-Heavy;
+$sh-sf-b-jp: source-han-serif-japanese-Bold;
+$sh-sf-sb-jp: source-han-serif-japanese-SemiBold;
+$sh-sf-m-jp: source-han-serif-japanese-Medium;
+$sh-sf-r-jp: source-han-serif-japanese-Regular;
+$sh-sf-l-jp: source-han-serif-japanese-Light;
+$sh-sf-exl-jp: source-han-serif-japanese-ExtraLight;
 
-@font-face {
-    font-family: 'source-han-serif-sc';
-    src: url("../fonts/SourceHanSerifCN-Heavy.otf");
-}
-
-@font-face {
-    font-family: 'source-han-serif-japanese';
-    src: url("../fonts/SourceHanSerifJP-SemiBold.otf");
-    src: url("../fonts/SourceHanSerifJP-Medium.otf");
-    src: url("../fonts/SourceHanSerifJP-Light.otf");
-    src: url("../fonts/SourceHanSerifJP-ExtraLight.otf");
-}
+$sh-sf-h-cn: source-han-serif-cn-Heavy;
+$sh-sf-b-cn: source-han-serif-cn-Bold;
+$sh-sf-sb-cn: source-han-serif-cn-SemiBold;
+$sh-sf-m-cn: source-han-serif-cn-Medium;
+$sh-sf-r-cn: source-han-serif-cn-Regular;
+$sh-sf-l-cn: source-han-serif-cn-Light;
+$sh-sf-exl-cn: source-han-serif-cn-ExtraLight;

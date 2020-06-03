@@ -69,7 +69,7 @@ Ted has been eating fruit since he was baby.
 ```
 
 ## Staff page
-让我们添加一个页面列出所有作者。Jekyll 通过 `site.authors` 使用集合。
+让我们添加一个页面列出所有作者，Jekyll 通过 `site.authors` 使用集合。
 
 创建 `staff.html` 并遍历 `site.authors` 输出所有职员：
 ```html
@@ -135,7 +135,7 @@ title: Staff
 </ul>{% endraw %}
 ```
 
-就像文章一样，需要给作者创建布局。
+就像文章页面，同样要给作者页面创建布局。
 
 创建 `_layouts/author.html` 带上如下内容：
 ```html
@@ -181,9 +181,49 @@ defaults:
 现在你能从所有页面和文章的头部信息种移除布局了，注意每次更新 `_config.yml` 都要重启 Jekyll 使其生效。
 
 ## List author’s posts
+让我们在作者页面列出一个他发表的所有文章，首先将作者 `short_name` 匹配到 `author`，通过这样按作者来过滤文章。
 
+在 `_layouts/author.html` 遍历这个筛选后的列表输出作者的文章：
+```html
+---
+layout: default
+---
+{% raw %}<h1>{{ page.name }}</h1>
+<h2>{{ page.position }}</h2>
+
+{{ content }}
+
+<h2>Posts</h2>
+<ul>
+  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>{% endraw %}
+```
 
 ## Link to authors page
+文章有一个作者的引用，所以让我们把他链接到作者页面，在 `_layouts/post.html` 用相同的筛选方法：
+```html
+---
+layout: default
+---
+{% raw %}<h1>{{ page.title }}</h1>
+
+<p>
+  {{ page.date | date_to_string }}
+  {% assign author = site.authors | where: 'short_name', page.author | first %}
+  {% if author %}
+    - <a href="{{ author.url }}">{{ author.name }}</a>
+  {% endif %}
+</p>
+
+{{ content }}{% endraw %}
+```
+
+打开  [http://localhost:4000](http://localhost:4000/) 看一看职员页面，确保所有链接都正确。
+
+在下一节，也是教程的最后一节，我们再润色一下并为生产环境部署做准备。
 
 ---
 ###### Links
