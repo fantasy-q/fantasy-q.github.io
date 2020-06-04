@@ -48,8 +48,8 @@ text:
     coming_soon: 'Coming soon...'
 
 # Build settings
-markdown:     kramdown
-paginate:     5
+markdown: kramdown
+paginate: 10
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink: none
