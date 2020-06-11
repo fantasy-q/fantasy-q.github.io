@@ -4,9 +4,9 @@ title: おしゃかしゃま
 categories: lyric
 links:
   YouTube: https://www.youtube.com/watch?v=7MaF-bWeLGw
-summary: 
+summary: 通算5枚目の「アルトコロニーの定理」の収録曲として	2009年3月11日にリリースした。
 description: >
-  RADWIMPS<br>
+  RADWIMPS - Oshakashama<br>
   作詞・作曲：<ruby><rb>野田</rb><rt>のだ</rt></ruby><ruby><rb>洋次郎</rb><rt>ようじろう</rt></ruby><br>
 published: true
 ---
@@ -52,14 +52,12 @@ published: true
 <ruby><rb>増</rb><rt>ふ</rt></ruby>やして<ruby><rb>減</rb><rt>へ</rt></ruby>らして　<ruby><rb>減</rb><rt>へ</rt></ruby>らしたら<ruby><rb>増</rb><rt>ふ</rt></ruby>やして<br>
 なしてどうしてって　なんでかって?<br>
 「<ruby><rb>？</rb><rt>はてな</rt></ruby>」<ruby><rb>出</rb><rt>だ</rt></ruby>したフリした（て<ruby><rb>分</rb><rt>わ</rt></ruby>）<br>かってる　くせして<br>
-「<ruby><rb>話</rb><rt>はな</rt></ruby>して<ruby><rb>聞</rb><rt>き</rt></ruby>かせて　なんでなんで」<br>
-だって　<ruby><rb>馬鹿</rb><rt>ばか</rt></ruby>なんだって<br><ruby><rb>人類</rb><rt>じんるい</rt></ruby>なんて　そりゃそうなんだった<br>（て<ruby><rb>分</rb><rt>わ</rt></ruby>）かってるって<br>
-だから　１、２、３で<br><ruby><rb>滅</rb><rt>ほろ</rt></ruby>んじゃえばいいんだって<br>
+「<ruby><rb>話</rb><rt>はな</rt></ruby>して<ruby><rb>聞</rb><rt>き</rt></ruby>かせて　なんでなんで」<br>（だって）　<ruby><rb>馬鹿</rb><rt>ばか</rt></ruby>なんだって<br><ruby><rb>人類</rb><rt>じんるい</rt></ruby>なんて　そりゃそうなんだった<br>（て<ruby><rb>分</rb><rt>わ</rt></ruby>）かってるって<br>（だから）　１、２、３で<br><ruby><rb>滅</rb><rt>ほろ</rt></ruby>んじゃえばいいんだって<br>
 だって　なんてっ　たって<br>
 
 <ruby><rb>馬鹿</rb><rt>ばか</rt></ruby>は<ruby><rb>死</rb><rt>し</rt></ruby>なない　と<ruby><rb>治</rb><rt>なお</rt></ruby>らない<br>
 なら<ruby><rb>考</rb><rt>かんが</rt></ruby>えたって　<ruby><rb>仕方</rb><rt>しかた</rt></ruby>がない<br>
-さぁ<ruby><rb>来世</rb><rt>らいせ</rt></ruby>のおいら　に<ruby><rb>期待</rb><rt>きたい</rt></ruby><ruby><rb>大</rb><rt>だい</rt></ruby><br>
+さぁ<ruby><rb>来世</rb><rt>らいせ</rt></ruby>の<ruby><rb>己等</rb><rt>おいら</rt></ruby>　に<ruby><rb>期待</rb><rt>きたい</rt></ruby><ruby><rb>大</rb><rt>だい</rt></ruby><br>
 でも<ruby><rb>待</rb><rt>ま</rt></ruby>ってじゃあ<ruby><rb>現世</rb><rt>げんせい</rt></ruby>はどうすんだい<br>
 さぁ<ruby><rb>無茶</rb><rt>むちゃ</rt></ruby>しよう　そんで<ruby><rb>苦</rb><rt>く</rt></ruby><ruby><rb>茶</rb><rt>ちゃ</rt></ruby>しよう<br>
 <ruby><rb>二</rb><rt>ふた</rt></ruby>つ<ruby><rb>合</rb><rt>あ</rt></ruby>わさっ　て<ruby><rb>無茶苦茶</rb><rt>むちゃくちゃ</rt></ruby>にしよう<br>
