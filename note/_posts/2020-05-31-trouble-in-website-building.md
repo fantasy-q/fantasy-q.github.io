@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: note
 title:  Jekyll 学习总结
 date:   2020-05-31 11:52:32 +0800
-categories: note, jekyll
+categories: note
 published: false
 ---
 

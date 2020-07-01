@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: note
 title:  Jekyll 手把手教学 - 部署网站 
 summary:  Step by Step Tutorial - Ⅹ. Deployment （部分翻译，自用帮助了解。）
 categories: jekyll
+tags: jekyll
 published: true
 ---
 

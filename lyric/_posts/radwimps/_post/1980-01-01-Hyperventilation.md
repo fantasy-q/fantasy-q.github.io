@@ -1,7 +1,7 @@
 ---
 layout: lyric
 title: ハイパーベンチレイション
-categories: lyric
+categories: lyric radwimps
 links:
   YouTube: https://www.youtube.com/watch?v=OEPmMz2Y0c8
   嗶哩嗶哩: https://www.bilibili.com/video/av53959674

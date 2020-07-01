@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title:  JEKYLL DOCUMENTS
 date:   2019-12-04 00:43:00 +0800
 summary: 摘抄 Jekyll 官方文档，帮助自己理解
@@ -7,20 +7,29 @@ categories: note
 published: true
 ---
 
-- [Jekyll 简介](#quickstart)
-	- [安装](安装)
-- [Ruby 基础](#ruby-101)
-	- [Gem 包](#gems) 
-	- [Gemfile 文件](#gemfile)
-	- [Bundler 包管理工具](#bundler)
-- [YAML 头信息](#front-matter)
-	- [预定义全局变量](#predefined-global-variables) 
-	- [自定义变量](#custom-variables)
-	- [post 的预定义变量](#predefined-variables-for-posts)
-- [目录结构](#directory-structure)
-- [模板语言 Liquid](#liquid)
-- [网站变量](#variable)
-	- [全局变量](#global-variables)
+- [QuickStart](#quickstart)
+	- [Installation](#installation)
+- [Ruby 101](#ruby-101)
+	- [Gems](#gems)
+	- [Gemfile](#gemfile)
+	- [Bundler](#bundler)
+- [Front Matter](#front-matter)
+	- [Predefined Global Variables](#predefined-global-variables)
+	- [Custom Variables](#custom-variables)
+	- [Predefined Variables for Posts](#predefined-variables-for-posts)
+- [Directory Structure](#directory-structure)
+- [Liquid](#liquid)
+	- [Filters](#filters)
+	- [Tags](#tags)
+		- [Includes](#includes)
+		- [Code snippet highlighting](#code-snippet-highlighting)
+			- [Line numbers](#line-numbers)
+			- [Stylesheets for syntax highlighting](#stylesheets-for-syntax-highlighting)
+	- [Links](#links)
+		- [Linking to pages](#linking-to-pages)
+- [Variables](#variables)
+	- [Global Variables](#global-variables)
+				- [References](#references)
 
 ## QuickStart
 *Jekyll is a static site generator.*
@@ -97,7 +106,7 @@ end
 *Any file that contains a [YAML](https://yaml.org/) front matter block will be processed by Jekyll as a special file.*
 简单说下 [Front Matter](https://jekyllrb.com/docs/front-matter/)。
 
-```
+```yaml
 ---
 layout: post
 title: Blogging Like a Hacker
@@ -122,7 +131,7 @@ These variables will then be available to you to access using Liquid tags both f
 
 *You can also set your own front matter variables you can access in Liquid. For instance, if you set a variable called `food`, you can use that in your page:*
 
-```
+```html
 ---
 food: Pizza
 ---
@@ -165,6 +174,86 @@ food: Pizza
 想了解更多关于 Liquid 的信息，请查看 [Liquid 官方文档](https://shopify.github.io/liquid/)。
 
 除了 Liquid 官方文档中的，Jekyll 还额外添加了一些 [Filters](https://jekyllrb.com/docs/liquid/filters/) 和 [Tags](https://jekyllrb.com/docs/liquid/tags/) 帮助你搭建网站。
+
+### Filters
+
+所有滤器（Filter）都能[在这](https://jekyllrb.com/docs/liquid/filters/#standard-liquid-filters)查看。[标准 Liquid 滤器](https://shopify.github.io/liquid/filters/)。
+
+为了让一些常见的需求更简单，Jekyll 本身也添加了一些方便的滤器，你也可以通过[插件](https://jekyllrb.com/docs/plugins/)来创建自己的滤器。
+
+| FILTERS AND USAGE | DESCRIPTION |
+| ---- | ---- |
+| **Relative URL**<br>relative_url | 预置 baseurl 到输入。如果网站域名装载以 subpath 而非 root 形式时很有用。 |
+| **Absolute URL**<br>absolute_url | 预置 url 和 baseurl 到输入。 |
+| **Date to FORMAT**<br>date_to_FORMAT |  FORMAT: <br>・XML Schema<br>・RFC-822 Format<br>・Date to String<br>・Date to Long String<br>STYLE: <br>・ordinal, US, UK |
+| **Where**<br>where:"key1", "key2" | 选择一个数组中所有键与给定值相符的对象 |
+| **Where Expression**<br>where_exp: "exp" | 选择一个数组中所有使表达式为真的对象|
+| **Find**<br>find:"key1", "key2" | 返回数组中所查询的属性与给定值相符的**第一个对象**，不存在则返回 `nil` |
+| **Find Expression**<br>find_exp | 返回数组中使表达式为真的**第一个对象**，不存在则返回 `nil` |
+| **Group By**<br>group_by:"" | 给定属性将数组各项分组 |
+| **XML Escape**<br>xml_escape | Escape some text for use in XML<br>`{% raw %}{{ page.content \| xml_escape }}{% endraw %}` |
+| **CGI Escape**<br>相对 URL | CGI escape 一个字符串用在 URL<br>用适当的 `%XX` 替换任意特殊字符，CGI escape 通常用加号 `+` 来替换空格<br>`{% raw %}{{ "foo, bar; baz?" \| cgi_escape }}{% endraw %}`<br>`foo%2C+bar%3B+baz%3F` |
+| **URI Escape**<br>相对 URL | URI 用百分符编码任意特殊字符<br>URI escape 通常用加号 `%20` 来替换空格，保留字符不会逃逸(escaped)<br>`{% raw %}{{ "http://foo.com/?q=foo, \bar?" \| uri_escape }}{% endraw %}`<br>`http://foo.com/?q=foo,%20%5Cbar?` |
+
+### Tags
+
+所有标签 (Tags) 都能[在这](https://shopify.github.io/liquid/tags/control-flow/)查看。Jekyll 内置了一些标签帮助你搭建网站，你也可以通过[插件](https://jekyllrb.com/docs/plugins/)来创建自己的滤器。
+
+#### Includes
+
+如果你有会重复利用的页面代码片段，[include](https://jekyllrb.com/docs/includes/) 可以完美地提高站点地可维护性.
+
+#### Code snippet highlighting
+感谢 [Rouge](http://rouge.jneen.net/)提供给 Jekyll 超过 100 种语言的语句高亮，Rouge 是 Jekyll 3 和以上版本默认使用的语句高亮。
+
+用语句高亮渲染代码块，如下所示：
+```
+{% raw %}{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}{% endraw %}
+```
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+`highlight` 的参数 (在上例中为 `ruby`) 是语言标识符，查看 [Rouge wiki](https://github.com/jayferd/rouge/wiki/List-of-supported-languages-and-lexers) 的"short name"，寻找合适的标识符。
+
+##### Line numbers
+
+`highlight` 的第二个参数是可选的，叫作 `linenos`，作用是强制高亮代码并包含行号，如下所示：
+```
+{% raw %}{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}{% endraw %}
+```
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+##### Stylesheets for syntax highlighting
+为了让高亮能显示，你还要包含一个高亮样式表，对于 Pygments 或 Rouge 你可以使用 Pygments 的样式表，you can find an example gallery [here](https://jwarby.github.io/jekyll-pygments-themes/languages/ruby.html) or from [its repository](https://github.com/jwarby/jekyll-pygments-themes).
+
+复制 CSS 文件 (如 native.css) 到你的 CSS 目录并导入这些语句样式到你的 `main.css` 中：
+```css
+@import "native.css";
+```
+
+### Links
+
+Since Jekyll `4.0` , you don’t need to prepend `link` and `post_url` tags with `site.baseurl`.
+
+#### Linking to pages
+
+链接到文章
+
 
 ## [Variables](https://jekyllrb.com/docs/variables/)
 

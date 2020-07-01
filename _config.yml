@@ -15,11 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fantasy-q.github.io/" 
 # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%b %-d, %Y"
-
 header_pages:
- - about.markdown
-#  - content.markdown
-
 google_analytics:
 
 # Optional features
@@ -36,7 +32,6 @@ disqus_shortname:
 # Social icons
 github_username: fantasy-q
 bilibili_uid: '5447176'
-
 text:
   pagination:
     newer: 'PREV'

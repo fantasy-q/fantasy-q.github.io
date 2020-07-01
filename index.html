@@ -4,12 +4,12 @@ layout: default
 
 {% assign posts_count = paginator.posts | size %}
 
-{% include pagination.html %}
-
+{% include pagination.html %}<hr>
 <div class="home">
-  {% if posts_count > 0 %}
+  {% if posts_count > 0 %} 
   <div class="posts">
-    {% for post in paginator.posts %}
+    {% for post in paginator.posts %} 
+    {% if post.tags != jekyll %}
     <div class="post py3">
       <p class="post-meta">
         {% if site.date_format %}
@@ -23,7 +23,7 @@ layout: default
       </a>
       <span class="post-summary">
         {% if post.summary %}
-        {{ post.summary }}
+        {{ post.summary }}{{ post.tags }}
         {% else %}
         {{ post.title }}
         <!-- {{ post.content }} -->
@@ -31,10 +31,11 @@ layout: default
         {% endif %}
       </span>
     </div>
+    {% endif %}
     {% endfor %}
   </div>
 
-  {% include pagination.html %}
+  <hr>{% include pagination.html %}
   {% else %}
   <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
   {% endif %}

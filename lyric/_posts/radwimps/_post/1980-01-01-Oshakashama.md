@@ -1,7 +1,7 @@
 ---
 layout: lyric
 title: おしゃかしゃま
-categories: lyric
+categories: lyric radwimps
 links:
   YouTube: https://www.youtube.com/watch?v=7MaF-bWeLGw
 summary: 通算5枚目の「アルトコロニーの定理」の収録曲として	2009年3月11日にリリースした。

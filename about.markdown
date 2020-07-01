@@ -2,7 +2,5 @@
 layout: page
 title: About
 permalink: /about/
-tag: about
+tags: about
 ---
-
-还没写。。。

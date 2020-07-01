@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: note
 title:  Jekyll 手把手教学 - 数据文件
 summary:  Step by Step Tutorial - Ⅵ. Data Files（部分翻译，自用帮助了解。）
 categories: jekyll
+tags: jekyll
 published: true
 ---
 
