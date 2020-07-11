@@ -1,15 +1,14 @@
 ---
 layout: note
-title:  Jekyll 手把手教学 - 集合内容
-summary:  Step by Step Tutorial - Ⅸ. Collections（部分翻译，自用帮助了解。）
+title:  Jekyll — Ⅸ. 集合内容
+summary:  Step by Step Tutorial - Ⅸ. Collections（部分翻译，自用帮助了解）
 categories: jekyll
-tags: jekyll
 published: true
 ---
 
 ## 目录
 
-- [一 、前期准备 ](../jekyll/01st-setup.html)
+- [一、前期准备 ](../jekyll/01st-setup.html)
 - [二、模板语言 ](../jekyll/02nd-Liquid.html)
 - [三、头部信息  ](../jekyll/03th-Front-Matter.html)
 - [四、布局文件 ](../jekyll/04th-Layouts.html)

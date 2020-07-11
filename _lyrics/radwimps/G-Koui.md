@@ -29,7 +29,7 @@ published: true
 
 あぁ<ruby><rb>成功</rb><rt>せいこう</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>がよく　<ruby><rb>語</rb><rt>かた</rt></ruby>るじゃない<br><ruby><rb>下積</rb><rt>したづ</rt></ruby>み　<ruby><rb>自慢</rb><rt>じまん</rt></ruby>げに　<ruby><rb>話</rb><rt>はな</rt></ruby>すじゃない<br><ruby><rb>君</rb><rt>きみ</rt></ruby>にとって<ruby><rb>今</rb><rt>いま</rt></ruby>が　その<ruby><rb>時</rb><rt>とき</rt></ruby>なんじゃない<br>そうじゃない　きっとそうなんじゃない<br><ruby><rb>パナイ</rb><rt>Panay</rt></ruby>　じゃない　そうだったらヤバイ<br>じゃない　<ruby><rb>今</rb><rt>いま</rt></ruby>が<ruby><rb>美談</rb><rt>びだん</rt></ruby>　になん　じゃない<br><ruby><rb>今</rb><rt>いま</rt></ruby>が<ruby><rb>辛</rb><rt>つら</rt></ruby>い　ほどいいん　じゃない<br><ruby><rb>美味</rb><rt>おい</rt></ruby>し　いんじゃない<br>「じゃない」が<ruby><rb>多</rb><rt>おお</rt></ruby>くない?<br>
 
-（―――<ruby><rb>繰</rb><rt>く</rt></ruby>り<ruby><rb>返</rb><rt>がえ</rt></ruby>し　×２―――）<br>I un-der-stan-d tha[t-your]<br>com-p-lai-nan[t-an(d)]<br>[d]un-der-stoo-d wi[th-you]<br>clea-n o-pi-nion[?]<br>all-you-nee-d i[s-a]<br>sa-tis-fac-tion[so]<br>please feel free[let's]<br>mas-tur-ba-tion<br>
+（―――<ruby><rb>繰</rb><rt>く</rt></ruby>り<ruby><rb>返</rb><rt>がえ</rt></ruby>し　×２―――）<br>I un-der-stan-d tha[t-your]<br>com-p-lai-nan[t-an(d)]<br>[d]un-der-stoo-d wi[th-you]<br>clea-n o-pi-nion[s-a]<br>(a)ll-you-nee-d i[s-a]<br>sa-tis-fac-tion[so]<br>please feel free[let's]<br>mas-tur-ba-tion<br>
 
 <ruby><rb>何</rb><rt>なに</rt></ruby>よ　ほんと　<ruby><rb>近頃</rb><rt>ちかごろ</rt></ruby>の　<ruby><rb>男</rb><rt>おとこ</rt></ruby><br>ちゃんと<ruby><rb>一物</rb><rt>いちもつ</rt></ruby>が　ついてんの<br><ruby><rb>飾</rb><rt>かざ</rt></ruby>りでついてるだ　けじゃないの<br><ruby><rb>中身</rb><rt>なかみ</rt></ruby>すっからかん[^sukkarakan]なん　だわきっと<br>
 

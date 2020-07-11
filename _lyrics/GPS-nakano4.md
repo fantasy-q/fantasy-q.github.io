@@ -6,8 +6,6 @@ links:
   nakano4: https://nakano4.tumblr.com/post/7758813439
   YouTube: https://www.youtube.com/watch?v=JSnJFFOVLMc
   哔哩哔哩（cover）: https://www.bilibili.com/video/BV1k4411t72b
-summary: >
-  **　music lyrics movie nakano4　.　illust 風邪薬
 description: >
   **　music lyrics movie nakano4　.　illust 風邪薬
 published: true

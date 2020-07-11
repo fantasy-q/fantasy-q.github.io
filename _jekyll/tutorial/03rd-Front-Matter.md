@@ -1,15 +1,14 @@
 ---
 layout: note
-title:  Jekyll 手把手教学 - 头部信息
-summary:  Step by Step Tutorial - Ⅲ. Front Matter（部分翻译，自用帮助了解。）
+title:  Jekyll — Ⅲ. 头部信息
+summary:  Step by Step Tutorial - Ⅲ. Front Matter（部分翻译，自用帮助了解）
 categories: jekyll
-tags: jekyll
 published: true
 ---
 
 ## 目录
 
-- [一 、前期准备 ](../jekyll/01st-setup.html)
+- [一、前期准备 ](../jekyll/01st-setup.html)
 - [二、模板语言 ](../jekyll/02nd-Liquid.html)
 - [三、头部信息  ](../jekyll/03th-Front-Matter.html)
   - [使用头部信息](#use-front-matter)

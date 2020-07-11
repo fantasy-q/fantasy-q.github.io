@@ -1,15 +1,14 @@
 ---
 layout: note
-title:  Jekyll 手把手教学 - 前期准备
-summary:  Step by Step Tutorial - Ⅰ. SETUP（部分翻译，自用帮助了解。）
+title: Jekyll — Ⅰ.前期准备
+summary: Step by Step Tutorial - Ⅰ. SETUP（部分翻译，自用帮助了解）
 categories: jekyll
-tags: jekyll
 published: true
 ---
 
 ## 目录
 
-- [一 、前期准备 ](../jekyll/01st-setup.html)
+- [一、前期准备 ](../jekyll/01st-setup.html)
 	- [安装 ](#installation)
 	- [创建站点](#create-a-site)
 	- [构建](#build)

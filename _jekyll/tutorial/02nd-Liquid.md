@@ -1,15 +1,14 @@
 ---
 layout: note
-title:  Jekyll 手把手教学 - 模板语言
-summary:  Step by Step Tutorial - Ⅱ. LIQUID（部分翻译，自用帮助了解。）
+title:  Jekyll — Ⅱ. 模板语言
+summary:  Step by Step Tutorial - Ⅱ. LIQUID（部分翻译，自用帮助了解）
 categories: jekyll
-tags: jekyll
 published: true
 ---
 
 ## 目录
 
-- [一 、前期准备 ](../jekyll/01st-setup.html)
+- [一、前期准备 ](../jekyll/01st-setup.html)
 - [二、模板语言 ](../jekyll/02nd-Liquid.html)
 	- [对象](#objects) 
 	- [标签](#tags)

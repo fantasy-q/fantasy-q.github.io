@@ -1,7 +1,6 @@
 ---
 layout: note
 title:  Jekyll 学习总结
-date:   2020-05-31 11:52:32 +0800
 categories: note
 published: false
 ---
@@ -17,3 +16,18 @@ published: false
 | `pretty`     | `/:categories/:year/:month/:day/:title/`     |
 | `ordinal`    | `/:categories/:year/:y_day/:title.html`      |
 | `none`       | `/:categories/:title.html`                   |
+
+### 2020-07-03 在 markdown 中给 table 标签添加 class
+```markdown
+# Let's try out a table with kramdown class tag
+
+| A simple | table |
+| with multiple | lines|
+{: .my-class }
+```
+[GitHub](https://gist.github.com/tamouse/4204dddabb6b072b0242)
+
+### 2020-07-11 post 文件名不用日期
+[StackOverflow](https://stackoverflow.com/questions/27099427/jekyll-filename-without-date)
+
+了解下集合

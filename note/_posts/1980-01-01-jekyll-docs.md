@@ -7,30 +7,37 @@ categories: note
 published: true
 ---
 
-- [QuickStart](#quickstart)
-	- [Installation](#installation)
+- [GETTING STARTED](#getting-started)
+- [快速开始](#quickstart)
+	- [安装](#installation)
 - [Ruby 101](#ruby-101)
-	- [Gems](#gems)
-	- [Gemfile](#gemfile)
-	- [Bundler](#bundler)
-- [Front Matter](#front-matter)
-	- [Predefined Global Variables](#predefined-global-variables)
-	- [Custom Variables](#custom-variables)
-	- [Predefined Variables for Posts](#predefined-variables-for-posts)
-- [Directory Structure](#directory-structure)
-- [Liquid](#liquid)
-	- [Filters](#filters)
-	- [Tags](#tags)
-		- [Includes](#includes)
-		- [Code snippet highlighting](#code-snippet-highlighting)
-			- [Line numbers](#line-numbers)
-			- [Stylesheets for syntax highlighting](#stylesheets-for-syntax-highlighting)
-	- [Links](#links)
-		- [Linking to pages](#linking-to-pages)
-- [Variables](#variables)
-	- [Global Variables](#global-variables)
-				- [References](#references)
+	- [Gems文件](#gems)
+	- [Gemfile文件](#gemfile)
+	- [Bundler包](#bundler)
+- [CONTENT](#content)
+- [YAML头部信息](#front-matter)
+	- [预定义全局变量](#predefined-global-variables)
+	- [自定变量](#custom-variables)
+	- [预定义文章变量](#predefined-variables-for-posts)
+- [集合](#collections)
+	- [准备](#setup)
+	- [添加内容](#add-content)
+- [SITE STRUCTURE](#site-structure)
+- [目录结构](#directory-structure)
+- [Liquid模板](#liquid)
+	- [滤器](#filters)
+	- [标签](#tags)
+		- [包含文件](#includes)
+		- [代码片段高亮](#code-snippet-highlighting)
+			- [行号](#line-numbers)
+			- [语法高亮样式表](#stylesheets-for-syntax-highlighting)
+	- [链接](#links)
+		- [连接到页面](#linking-to-pages)
+- [变量](#variables)
+	- [全局变量](#global-variables)
+- [参考](#references)
 
+## GETTING STARTED
 ## QuickStart
 *Jekyll is a static site generator.*
 
@@ -101,6 +108,7 @@ end
 
 关于如何使用 Bundler 戳[这里](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)。
 
+## CONTENT
 ## Front Matter
 
 *Any file that contains a [YAML](https://yaml.org/) front matter block will be processed by Jekyll as a special file.*
@@ -149,7 +157,42 @@ food: Pizza
 | `category`<br>`categories` | 可以指定多个类别，代替文件夹进行分类。指派多个类别时可以使用 [YAML list](https://en.wikipedia.org/wiki/YAML#Basic_components) 或空格分隔的字符串。 |
 | `tags` | 类似 `categories`，可以添加多个 tag。 |
 
-## [Directory Structure](https://jekyllrb.com/docs/structure/)
+## Collections
+*Collections are a great way to group related content like members of a team or talks at a conference.*
+
+### Setup
+先在 `_config.yml` 定义集合，如：
+```yaml
+collections:
+  - staff_members
+```
+
+在这个例子 `collections` 被定义为一个没有额外元数据的序列 (i.e array)，并定义给每一个集合。可以将 `collections` 定义为映射 (i.e hashmap) 而非序列，来给集合指定元数据，然后反映出额外的字段 (filed)：
+```yaml
+collections:
+  staff_members:
+    people: true
+```
+
+### Add content
+创建对应文件夹 (e.g.`<source>/_staff_members`) ,添加文档。如果头部信息存在则处理，所有后面的内容都属于文档的 `content` 属性。如果没有头部信息，Jekyll 会认为这是一个 [static file](https://jekyllrb.com/docs/static-files/) 并且内容不会经过进一步的处理。如果有头部信息，Jekyll 则将文件内容处理成期望的输出。
+
+不管有没有头部信息，Jekyll 都会写进宿 (destination directory) 目录 (e.g. `_site`) 仅当 `output: true` 被设置进集合的元数据。
+
+举个例子，这是如何添加一份 Staff 名单到上面设置的集合，文件名为 `./_staff_members/jane.md` 有如下内容:
+```yaml
+---
+name: Jane Doe
+position: Developer
+---
+Jane has worked on Jekyll for the past *five years*.
+```
+
+注意不管被当作
+合法文件名格式的 Posts 会被标记处理，即使它们不包括头部信息
+
+## SITE STRUCTURE
+## Directory Structure
 
 | 文件 / 目录 | 描述 |
 | ---- | ---- |
@@ -165,7 +208,7 @@ food: Pizza
 | `index.html` 或<br> `index.md` 和<br>其他的 HTML，<br>Markdown文件 | 主要就是 [Front Matter](https://jekyllrb.com/docs/front-matter/) 部分。 |
 | Other Files/Folders | 可以自己创建目录。了解有哪些[使用 Jekyll 的网站](https://jekyllrb.com/showcase/)。 |
 
-## [Liquid](https://jekyllrb.com/docs/liquid/)
+## Liquid
 
 *Jekyll uses the [Liquid](https://shopify.github.io/liquid/) templating language to process templates.*
 

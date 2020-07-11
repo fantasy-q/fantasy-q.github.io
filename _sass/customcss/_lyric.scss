@@ -1,0 +1,48 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/custom-variables.scss` to override variable defaults)
+
+.lyric-title {
+    font-family: $sh-sf-h-jp;
+    font-size: $h0;
+}
+
+.lyric-description{
+    font-family: $sh-sf-sb-jp;
+    font-size: $h3;
+    line-height: $h0;
+}
+
+.lyric-link {
+    font-size: $h4;
+    & span {
+        font-family: $sh-sf-sb-jp;
+    }
+    & a {
+        font-family: $sh-sf-exl-jp;
+    }
+}
+
+.lyric-content  {
+    & p {
+        font-family: $sh-sf-l-jp;
+        font-size: $h2;
+        line-height: $h0;
+    }
+    & p rt {
+        font-family: $sh-sf-b-jp;
+    }
+    & sup, sub {
+        font-size: $h7;
+    }
+    & h1, h2, h3, h4, h5, h6 {
+        text-align: left;
+    }
+    & .footnotes {
+        line-height: $h6;
+        & p {
+            font-size: $h6;
+            line-height: $h5;
+            text-align: left;
+        }
+    }    
+}

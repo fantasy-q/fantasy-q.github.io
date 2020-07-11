@@ -1,15 +1,14 @@
 ---
 layout: note
-title:  Jekyll 手把手教学 - 包含模板
-summary:  Step by Step Tutorial - Ⅴ. Includes（部分翻译，自用帮助了解。）
+title:  Jekyll — Ⅴ. 包含模板
+summary:  Step by Step Tutorial - Ⅴ. Includes（部分翻译，自用帮助了解）
 categories: jekyll
-tags: jekyll
 published: true
 ---
 
 ## 目录
 
-- [一 、前期准备 ](../jekyll/01st-setup.html)
+- [一、前期准备 ](../jekyll/01st-setup.html)
 - [二、模板语言 ](../jekyll/02nd-Liquid.html)
 - [三、头部信息  ](../jekyll/03rd-Front-Matter.html)
 - [四、布局模板 ](../jekyll/04th-Layouts.html)

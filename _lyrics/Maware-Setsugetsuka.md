@@ -4,7 +4,6 @@ title: 回レ!雪月花
 categories: lyric
 links:
   YouTube: https://www.youtube.com/watch?v=IxsH0VQM02w
-summary: テレビアニメ『機巧少女は傷つかない』のエンディングテーマ
 description: >  
   歌組雪月花：<br>
   <ruby>夜々<rp>（</rp><rt>やや</rt><rp>）</rp></ruby>（
@@ -20,8 +19,7 @@ description: >
 published: true
 ---
 
-せーのっ　<ruby><rb>一二三</rb><rt>いちにっさん</rt></ruby>　
-はい!<br>
+せーのっ　<ruby><rb>一二三</rb><rt>いちにっさん</rt></ruby>　はい!<br>
 ほい!　いよーーーーっぽんっ!<br>
 ハッハッハッハッハッハッハイヤ<br>
 ハッハッハッハッハッハッ　う～<br>
@@ -32,13 +30,13 @@ published: true
 <ruby><rb>時代</rb><rt>じだい</rt></ruby>は<ruby><rb>常</rb><rt>つね</rt></ruby>に<ruby><rb>日進月歩</rb><rt>にっしんげっぽ</rt></ruby><br>
 <ruby><rb>聞</rb><rt>き</rt></ruby>いてってよ<ruby><rb>老若男女</rb><rt>ろうにゃくなんにょ</rt></ruby><br>
 <ruby><rb>一見</rb><rt>いっけん</rt></ruby>は<ruby><rb>勧善懲悪</rb><rt>かんぜんちょうあく</rt></ruby><br>
-<ruby><rb>悪</rb><rt>わる</rt></ruby><ruby><rb>者</rb><rt>もの</rt></ruby>ども(を)
-<ruby><rb>一刀両断</rb><rt>いっとうりょうだん</rt></ruby><br>
+<ruby><rb>悪</rb><rt>わる</rt></ruby><ruby><rb>者</rb><rt>もの</rt></ruby>ども(を)<ruby><rb>一刀両断</rb><rt>いっとうりょうだん</rt></ruby><br>
 「でもホント　にそれだけで<ruby><rb>楽</rb><rt>たの</rt></ruby>しいの?」<br>
 もうなんだって<ruby><rb>蒟蒻問答</rb><rt>こんにゃくもんどう</rt></ruby><br>
 
 ハッハッハッハッハッハッハイヤ<br>
-ハッハッハッハッ<br>いよーーーーっぽんっ!<br>
+ハッハッハッハッ<br>
+いよーーーーっぽんっ!<br>
 
 どこからともなく<ruby><rb>現</rb><rt>あらわ</rt></ruby>れてすぐ<br>
 どこかへ<ruby><rb>行</rb><rt>い</rt></ruby>っちゃって<ruby><rb>神出鬼没</rb><rt>しんしゅつきぼつ</rt></ruby><br>
@@ -61,7 +59,7 @@ published: true
 <ruby><rb>回</rb><rt>まわ</rt></ruby>レ
 <ruby><rb>回</rb><rt>まわ</rt></ruby>レ
 <ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
-<ruby><rb>華麗</rb><rt>かれい</rt></ruby>に<ruby><rb>花弁</rb><rt>かべん</rt></ruby>　<ruby><rb>散</rb><rt>ち</rt></ruby>らす<ruby><rb>様</rb><rt>よう</rt></ruby>に<br>
+<ruby><rb>華麗</rb><rt>かれい</rt></ruby>に<ruby><rb>花弁</rb><rt>かべん</rt></ruby><ruby><rb>散</rb><rt>ち</rt></ruby>らす<ruby><rb>様</rb><rt>よう</rt></ruby>に<br>
 <ruby><rb>回</rb><rt>まわ</rt></ruby>レ
 <ruby><rb>回</rb><rt>まわ</rt></ruby>レ
 <ruby><rb>回</rb><rt>まわ</rt></ruby>レ
@@ -134,17 +132,13 @@ published: true
 ハッハッハッハッハッハッハイヤ<br>
 ハッハッハッハッハッハ（はー）<br>
 
-<ruby><rb>花</rb><rt>はな</rt></ruby>で<ruby><rb>一</rb><rt>ひと</rt></ruby>つ　
-<ruby><rb>鳥</rb><rt>とり</rt></ruby>で<ruby><rb>二</rb><rt>ふた</rt></ruby>つ<br>
+<ruby><rb>花</rb><rt>はな</rt></ruby>で<ruby><rb>一</rb><rt>ひと</rt></ruby>つ　<ruby><rb>鳥</rb><rt>とり</rt></ruby>で<ruby><rb>二</rb><rt>ふた</rt></ruby>つ<br>
 <ruby><rb>手打</rb><rt>てう</rt></ruby>ち<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
-<ruby><rb>風</rb><rt>かぜ</rt></ruby>で<ruby><rb>三</rb><rt>みっ</rt></ruby>つ　
-<ruby><rb>嗚呼</rb><rt>ああ</rt></ruby><ruby><rb>月出</rb><rt>つきで</rt></ruby>て<ruby><rb>四</rb><rt>よっ</rt></ruby>つ<br>
+<ruby><rb>風</rb><rt>かぜ</rt></ruby>で<ruby><rb>三</rb><rt>みっ</rt></ruby>つ　<ruby><rb>嗚呼</rb><rt>ああ</rt></ruby><ruby><rb>月出</rb><rt>つきで</rt></ruby>て<ruby><rb>四</rb><rt>よっ</rt></ruby>つ<br>
 <ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
-<ruby><rb>花</rb><rt>はな</rt></ruby>で<ruby><rb>一</rb><rt>ひと</rt></ruby>つ　
-<ruby><rb>鳥</rb><rt>とり</rt></ruby>で<ruby><rb>二</rb><rt>ふた</rt></ruby>つ<br>
+<ruby><rb>花</rb><rt>はな</rt></ruby>で<ruby><rb>一</rb><rt>ひと</rt></ruby>つ　<ruby><rb>鳥</rb><rt>とり</rt></ruby>で<ruby><rb>二</rb><rt>ふた</rt></ruby>つ<br>
 <ruby><rb>手打</rb><rt>てう</rt></ruby>ち<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
-<ruby><rb>風</rb><rt>かぜ</rt></ruby>で<ruby><rb>三</rb><rt>みっ</rt></ruby>つ　
-<ruby><rb>嗚呼</rb><rt>ああ</rt></ruby><ruby><rb>月出</rb><rt>つきで</rt></ruby>て<ruby><rb>四</rb><rt>よっ</rt></ruby>つ<br>
+<ruby><rb>風</rb><rt>かぜ</rt></ruby>で<ruby><rb>三</rb><rt>みっ</rt></ruby>つ　<ruby><rb>嗚呼</rb><rt>ああ</rt></ruby><ruby><rb>月出</rb><rt>つきで</rt></ruby>て<ruby><rb>四</rb><rt>よっ</rt></ruby>つ<br>
 <ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
 
 <ruby><rb>今</rb><rt>いま</rt></ruby>は~<br>
