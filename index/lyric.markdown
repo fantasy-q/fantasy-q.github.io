@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lyric
-permalink: /Lyric
+permalink: /lyric
 ---
 
 {% for lyric in site.lyrics %}
@@ -11,3 +11,4 @@ permalink: /Lyric
   </a>
 </div>
 {% endfor %}
+
