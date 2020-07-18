@@ -1,22 +1,17 @@
 ---
 layout: default
+title: Miscs
+permalink: /miscellaneous
 ---
 
-{% assign posts_count = paginator.posts | size %}
+{% assign posts_count = site.miscs | size %}
 
 {% include pagination.html %}<hr>
 <div class="home">
   {% if posts_count > 0 %} 
   <div class="posts">
-    {% for post in paginator.posts %} 
+    {% for post in site.miscs %} 
     <div class="post py3">
-      <p class="post-meta">
-        {% if site.date_format %}
-        {{ post.date | date: site.date_format }}
-        {% else %}
-        {{ post.date | date: "%b %-d, %Y" }}
-        {% endif %}
-      </p>
       <a href="{{ post.url | relative_url }}" class="post-link">
         <h3 class="h1 post-title">{{ post.title }}</h3>
       </a>
@@ -25,8 +20,6 @@ layout: default
         {{ post.summary }}
         {% else %}
         {{ post.title }}
-        <!-- {{ post.content }} -->
-        <!-- {{ post.excerpt }} -->
         {% endif %}
       </span>
     </div>

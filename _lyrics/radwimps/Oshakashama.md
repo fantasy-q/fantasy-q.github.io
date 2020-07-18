@@ -1,13 +1,13 @@
 ---
 layout: lyric
-title: おしゃかしゃま
 categories: lyric radwimps
+title: おしゃかしゃま
 links:
   YouTube: https://www.youtube.com/watch?v=7MaF-bWeLGw
-summary: 通算5枚目の「アルトコロニーの定理」の収録曲として	2009年3月11日にリリースした。
 description: >
-  RADWIMPS - Oshakashama<br>
-  作詞・作曲：<ruby><rb>野田</rb><rt>のだ</rt></ruby><ruby><rb>洋次郎</rb><rt>ようじろう</rt></ruby><br>
+  RADWIMPS &ndash; Oshakashama<br>
+  「アルトコロニーの定理」<sub>2009年3月11日</sub><br>
+  作詞・作曲：野田洋次郎
 published: true
 ---
 

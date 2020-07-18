@@ -6,10 +6,10 @@ links:
   YouTube: https://www.youtube.com/watch?v=OEPmMz2Y0c8
   嗶哩嗶哩: https://www.bilibili.com/video/av53959674
   Wikipedia: https://ja.wikipedia.org/wiki/携帯電話_(曲)
-summary: 10枚目のシングル「携帯電話」の収録曲として2010年6月30日に発売された。
 description: >
-  RADWIMPS - Hyperventilation<br>
-  作詞・作曲：<ruby><rb>野田</rb><rt>のだ</rt></ruby><ruby><rb>洋次郎</rb><rt>ようじろう</rt></ruby><br>
+  RADWIMPS &ndash; Hyperventilation<br>
+  「携帯電話」<sub>2010年6月30日</sub><br>
+  作詞・作曲：野田洋次郎<br>
 published: true
 ---
 
@@ -19,7 +19,7 @@ Oops, now-everybody<br>come say hey(hey)<br>Up-side-down-I kind-of-<br>find my w
 
 Think-of-other possibilitie(s)<br>(s)I rather hang me up-on<br>psycho linden trees<br>And-if-you find my body<br>wait-and-see<br>Cause-you'll-meet<br>a creep, so deep, inside, of-me<br>
 
-あらま　<ruby><rb>困</rb><rt>こま</rt></ruby>ったもん　だこりゃまぁ<br><ruby><rb>頭</rb><rt>あたま</rt></ruby>　こんがら　が　ったまんま<br>こんな　とこま　で<ruby><rb>来</rb><rt>き</rt></ruby>ちゃったもん<br>だからア　ッパラパーのまんまだわ<br>
+あらま　<ruby><rb>困</rb><rt>こま</rt></ruby>ったもん　だこりゃまぁ<br>あたま　こんがら　が　ったまんま<br>こんな　とこま　で<ruby><rb>来</rb><rt>き</rt></ruby>ちゃったもん<br>だからア　ッパラパーのまんまだわ<br>
 
 こうな　ったらテン　パ　ったまんま<br>ながら　なだら　かなる<ruby><rb>遥</rb><rt>はる</rt></ruby>かな　<ruby><rb>彼方</rb><rt>かなた</rt></ruby><br><ruby><rb>向</rb><rt>む</rt></ruby>かわな　<ruby><rb>行</rb><rt>い</rt></ruby>かんとは<ruby><rb>想</rb><rt>おも</rt></ruby>うん　だがな<br>まぁ<ruby><rb>如何</rb><rt>いかん</rt></ruby>せん　どうせぇ　<ruby><rb>言</rb><rt>ゆ</rt></ruby>うですか<br>
 
@@ -29,7 +29,7 @@ yaliyalita ttatitti taliya<br>candy candy hop<br>he goes-Slovenia Slovakia<br>wh
 
 さらば　<ruby><rb>腐</rb><rt>くさ</rt></ruby>って<ruby><rb>穿</rb><rt>うが</rt></ruby>　った<ruby><rb>カルマ</rb><rt>Karma</rt></ruby><br>まだか　<ruby><rb>天</rb><rt>てん</rt></ruby>からいらっしゃるのは<br><ruby><rb>白馬</rb><rt>はくば</rt></ruby>　<ruby><rb>跨</rb><rt>またが</rt></ruby>って<ruby><rb>攫</rb><rt>さ</rt></ruby>らって<ruby><rb>頂</rb><rt>いただ</rt></ruby>く<br>はずが<ruby><rb>置</rb><rt>お</rt></ruby>いて<ruby><rb>木　彫り</rb><rt>き　ぼり</rt></ruby>の<ruby><rb>身</rb><rt>み</rt></ruby><br>
 
-そげな　<ruby><rb>無茶</rb><rt>むちゃ</rt></ruby>ばっか<ruby><rb>言</rb><rt>い</rt></ruby>い　なさるな<br>こちとらそりゃすったもん　だあんだ<br>なんだかん　なあんだかん<br>ないい<ruby><rb>加減</rb><rt>かげん</rt></ruby>　なあんたなん<br><ruby><rb>絡</rb><rt>から</rt></ruby>んでくん　なもうさ<br>
+そげな　<ruby><rb>無茶</rb><rt>むちゃ</rt></ruby>ばっか<ruby><rb>言</rb><rt>い</rt></ruby>い　なさるな<br>こちとらそりゃすったもん　だあんだ<br>なんだかん　なあんだかん<br>ないい<ruby><rb>加減</rb><rt>かげん</rt></ruby>　なあんたなん<br>(か)<ruby><rb>絡</rb><rt>から</rt></ruby>んでくん　なもうさ<br>
 
 <ruby><rb>君</rb><rt>きみ</rt></ruby>が　<ruby><rb>願</rb><rt>ねが</rt></ruby>うよりも　<ruby><rb>醜</rb><rt>みにく</rt></ruby>く<br><ruby><rb>君</rb><rt>きみ</rt></ruby>が　<ruby><rb>恐</rb><rt>おそ</rt></ruby>れるより　も<ruby><rb>清</rb><rt>きよ</rt></ruby>く<br><ruby><rb>君</rb><rt>きみ</rt></ruby>が　<ruby><rb>想</rb><rt>おも</rt></ruby>うよりも　<ruby><rb>世界</rb><rt>せかい</rt></ruby>は<br><ruby><rb>君</rb><rt>きみ</rt></ruby>が　<ruby><rb>想</rb><rt>おも</rt></ruby>うように　できてる<br>
 

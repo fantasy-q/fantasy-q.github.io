@@ -5,7 +5,7 @@ layout: default
 <div class="post-header mb2 center">
   <h1 class="lyric-title">{{ page.title }}</h1>
   <div class="lyric-description mb1">
-    {{ page.description }}
+    {{ page.description }}<br>
   </div>
   <div class="lyric-link">
     {% if page.links %}
@@ -21,3 +21,12 @@ layout: default
 <article class="lyric-content center">
   {{ content }}
 </article>
+
+<!-- 
+    {% if page.description %}
+    {% for text in page.description %}
+    {{ text[1] }}<br>
+    {% endfor %}
+    {% endif %}
+  -->
+

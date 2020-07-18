@@ -4,10 +4,10 @@ title: 五月の蝿
 categories: lyric radwimps
 links:
   YouTube: https://www.youtube.com/watch?v=hoyOjMIunkM
-summary: 
 description: >
-  RADWIMPS - Gogatsu no Hae<br>
-  作詞・作曲：<ruby><rb>野田</rb><rt>のだ</rt></ruby><ruby><rb>洋次郎</rb><rt>ようじろう</rt></ruby><br>
+  RADWIMPS &ndash; Gogatsu no Hae<br>
+  「五月の蝿/ラストバージン」<sub>2013年10月16日</sub><br>
+  作詞・作曲：野田洋次郎
 published: true
 ---
 

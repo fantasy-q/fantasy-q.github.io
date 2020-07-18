@@ -63,10 +63,15 @@ exclude:
   - README.md
   - vendor
 
+# collections_dir: my_collections
+# 加了这个好像 post 也要放到里面
+
 collections:
   lyrics:
     output: true
   jekyll:
+    output: true
+  miscs:
     output: true
 
 # Exclude from processing.
