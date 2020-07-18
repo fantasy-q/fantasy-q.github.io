@@ -22,7 +22,7 @@ published: true
 たらな　ってたの　<ruby><rb>何様</rb><rt>なにさま</rt></ruby>　なのさ<br>
 
 <ruby><rb>僕は</rb><rt>ぼっか</rt></ruby><ruby><rb>見</rb><rt>み</rt></ruby>たことはないんだ<br>
-あちらこちらの<ruby><rb>絵画</rb><rt>かいが</rt></ruby>で<ruby><rb>見</rb><rt>み</rt></ruby>るんだ<br>
+あちらこちらの<ruby><rb>絵画</rb><rt>かい&ensp;が&ensp;</rt></ruby>で<ruby><rb>見</rb><rt>み</rt></ruby>るんだ<br>
 さらに<ruby><rb>話</rb><rt>はなし</rt></ruby>で<ruby><rb>聞</rb><rt>き</rt></ruby>いてる<ruby><rb>神様</rb><rt>かみさま</rt></ruby><br>
 はどれもこれも<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>なんだ<br>
 
@@ -36,24 +36,23 @@ published: true
 <ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>変</rb><rt>か</rt></ruby>わったって　<ruby><rb>変</rb><rt>か</rt></ruby>わらなくたって<br>
 んなこたぁどうだ　っていいんだ<br>
 <ruby><rb>人</rb><rt>ひと</rt></ruby>はいつだって　<ruby><rb>全</rb><rt>すべ</rt></ruby>て<ruby><rb>好</rb><rt>す</rt></ruby>き<ruby><rb>勝手</rb><rt>かって</rt></ruby><br>
-なんとかって<ruby><rb>言</rb><rt>い</rt></ruby>った<ruby><rb>連鎖</rb><rt>れんさ</rt></ruby><br>
+なんとかって<ruby><rb>言</rb><rt>い</rt></ruby>　った<ruby><rb>連鎖</rb><rt>れんさ</rt></ruby><br>
 の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>ったって　なおも<ruby><rb>天辺</rb><rt>てっぺん</rt></ruby>が<br>
-あるんだ　ってい<ruby><rb>張</rb><rt>いは</rt></ruby>んだよ<br>
+あるんだって<ruby><rb>言</rb><rt>い</rt></ruby>　い<ruby><rb>張</rb><rt>は</rt></ruby>んだよ<br>
 
 もしもこの<ruby><rb>僕</rb><rt>ぼく</rt></ruby>が<ruby><rb>神様</rb><rt>かみさま</rt></ruby><br>
 ならば<ruby><rb>全</rb><rt>すべ</rt></ruby>てを<ruby><rb>決</rb><rt>き</rt></ruby>めてもいいなら<br>
 <ruby><rb>７日間</rb><rt>なのかかん</rt></ruby>で<ruby><rb>世界</rb><rt>せかい</rt></ruby>を　<ruby><rb>作</rb><rt>つく</rt></ruby>るような<br>
-<ruby><rb>真似</rb><rt>まね</rt></ruby>は　きっと<ruby><rb>僕は</rb><rt>ぼっか</rt></ruby>しないだろう<br>
+<ruby><rb>真似</rb><rt>まね</rt></ruby>は　きっと<ruby><rb>僕は</rb><rt>ぼっか</rt></ruby>しないだろう＇<br>
 きっともっとちゃんと　<ruby><rb>時間</rb><rt>じかん</rt></ruby>をかけて<br>
 またきち　っとした<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てて<br>
 
-だって<ruby><rb>焦</rb><rt>あせ</rt></ruby>って<ruby><rb>急</rb><rt>いそ</rt></ruby>いで　<ruby><rb>作</rb><rt>つく</rt></ruby>ったせいで<br>
-<ruby><rb>切</rb><rt>き</rt></ruby>って<ruby><rb>張</rb><rt>は</rt></ruby>って　<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>壊</rb><rt>こわ</rt></ruby>して<br>
+だって<ruby><rb>焦</rb><rt>あせ</rt></ruby>って<ruby><rb>急</rb><rt>いそ</rt></ruby>いで　<ruby><rb>作</rb><rt>つく</rt></ruby>ったせいで＇<br>
+<ruby><rb>切</rb><rt>き</rt></ruby>って　<ruby><rb>張</rb><rt>は</rt></ruby>って　<ruby><rb>作</rb><rt>つく</rt></ruby>って　<ruby><rb>壊</rb><rt>こわ</rt></ruby>して<br>
 <ruby><rb>増</rb><rt>ふ</rt></ruby>やして<ruby><rb>減</rb><rt>へ</rt></ruby>らして<ruby><rb>減</rb><rt>へ</rt></ruby>らしたら<ruby><rb>増</rb><rt>ふ</rt></ruby>やして<br>
 なしてどうしてって　なんでかって?<br>
-「<ruby><rb>？</rb><rt>はてな</rt></ruby>」<ruby><rb>出</rb><rt>だ</rt></ruby>した　フリし<ruby><rb>て分</rb><rt>た</rt></ruby><br>かってる　くせして<br>
-「<ruby><rb>話</rb><rt>はな</rt></ruby>して<ruby><rb>聞</rb><rt>き</rt></ruby>かせて　なんでなんで」<br>（だって）<ruby><rb>馬鹿</rb><rt>ばか</rt></ruby>なんだって　<ruby><rb>人類</rb><rt>じんるい</rt></ruby>なんて<br>そりゃそうなんだっ<ruby><rb>て分</rb><rt>た</rt></ruby>かってるって<br>（だから）１、２、３で<br><ruby><rb>滅</rb><rt>ほろ</rt></ruby>んじゃえばいいんだって<br>
-だって　なんて　ったって<br>
+「<ruby><rb>？</rb><rt>はてな</rt></ruby>」<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>フリ</rb><rt>振り</rt>し<rt>し</rt><rb>て分</rb><rt>た</rt></ruby>かってる<ruby><rb>癖</rb><rt>くせ</rt></ruby>して<br>
+「<ruby><rb>話</rb><rt>はな</rt></ruby>して　<ruby><rb>聞</rb><rt>き</rt></ruby>かせて　なんでなんで」<br>だって＇<ruby><rb>馬鹿</rb><rt>ばか</rt></ruby>なんだって　<ruby><rb>人類</rb><rt>じんるい</rt></ruby>なんて<br>そりゃそうなんだっ<ruby><rb>て分</rb><rt>た</rt></ruby>かってるって<br>だから＇<ruby><rb>１ ２ ３</rb><rt>いち にっ さん</rt></ruby>で<ruby><rb>滅</rb><rt>ほろ</rt></ruby>んじゃえばいいん<br>だって　だって　なんて　ったって<br>
 
 <ruby><rb>馬鹿</rb><rt>ばか</rt></ruby>は<ruby><rb>死</rb><rt>し</rt></ruby>なない　と<ruby><rb>治</rb><rt>なお</rt></ruby>らない<br>
 なら<ruby><rb>考</rb><rt>かんが</rt></ruby>えたって　<ruby><rb>仕方</rb><rt>しかた</rt></ruby>がない<br>
@@ -73,9 +72,9 @@ published: true
 <ruby><rb>何</rb><rt>なに</rt></ruby>を<ruby><rb>言</rb><rt>い</rt></ruby>ったって　<ruby><rb>何</rb><rt>なに</rt></ruby>をやったって<br>
 ダメだダメだ　って<ruby><rb>言</rb><rt>い</rt></ruby>うんだ<br>
 
-ならばどうすればいい?<br>
-どこに<ruby><rb>向</rb><rt>む</rt></ruby>かえばいい<br>
-いてもいなくなっても<br>いけないならばどこに<br>
+なら　ばどう　すれ　ばいい？<br>
+どこ　に<ruby><rb>向</rb><rt>む</rt></ruby>　かえ　ばいい<br>
+いて　もいな　くな　っても<br>いけ　ない　なら　ばど　こに<br>
 
 <ruby><rb>来世</rb><rt>らいせ</rt></ruby>があったって　<ruby><rb>仮</rb><rt>かり</rt></ruby>に<ruby><rb>無</rb><rt>な</rt></ruby>くたって<br>
 だから<ruby><rb>何</rb><rt>なん</rt></ruby>だ　って<ruby><rb>言</rb><rt>い</rt></ruby>うんだ<br>

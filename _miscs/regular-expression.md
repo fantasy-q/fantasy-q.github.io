@@ -1,7 +1,8 @@
 ---
+layout: note
 title: 正则表达式
 summary: 记录用过的正则表达式
-published: false
+published: true
 ---
 
 - 去 HTML 标签：
