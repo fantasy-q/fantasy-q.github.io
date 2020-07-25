@@ -51,34 +51,17 @@ published: true
 キミは<ruby><rb>合図</rb><rt>あいず</rt></ruby><ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>踊</rb><rt>おど</rt></ruby>りだす<br>
 
 はぁ〜<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
 <ruby><rb>華麗</rb><rt>かれい</rt></ruby>に<ruby><rb>花弁</rb><rt>かべん</rt></ruby><ruby><rb>散</rb><rt>ち</rt></ruby>らす<ruby><rb>様</rb><rt>よう</rt></ruby>に<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
 <ruby><rb>髪</rb><rt>かみ</rt></ruby>も<ruby><rb>振</rb><rt>ふ</rt></ruby>り<ruby><rb>乱</rb><rt>みだ</rt></ruby>して<br>
 
-<ruby><rb>一昨日</rb><rt>おととい</rt></ruby>　<ruby><rb>昨日</rb><rt>きのう</rt></ruby><br>
-<ruby><rb>今日</rb><rt>きょう</rt></ruby>と<ruby><rb>明日</rb><rt>あす</rt></ruby>と<ruby><rb>明後日</rb><rt>あさって</rt></ruby>と<br>
+<ruby><rb>一昨日</rb><rt>おととい</rt></ruby>　<ruby><rb>昨日</rb><rt>きのう</rt></ruby>　<ruby><rb>今日</rb><rt>きょう</rt></ruby>と<ruby><rb>明日</rb><rt>あす</rt></ruby>と<ruby><rb>明後日</rb><rt>あさって</rt></ruby>と<br>
 この<ruby><rb>宴</rb><rt>うたげ</rt></ruby>は<ruby><rb>続</rb><rt>つづ</rt></ruby>く<br>
-<ruby><rb>踊</rb><rt>おど</rt></ruby>レ　<ruby><rb>歌</rb><rt>うた</rt></ruby>え<br>
-<ruby><rb>一心不乱</rb><rt>いっしんふらん</rt></ruby>に<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
-<ruby><rb>今宵</rb><rt>こよい</rt></ruby>は
-<ruby><rb>雪</rb><rt>せつ</rt></ruby>
-<ruby><rb>月</rb><rt>げつ</rt></ruby>
-<ruby><rb>花</rb><rt>か</rt></ruby><br>
+<ruby><rb>踊</rb><rt>おど</rt></ruby>レ　<ruby><rb>歌</rb><rt>うた</rt></ruby>え　<ruby><rb>一心不乱</rb><rt>いっしんふらん</rt></ruby>に<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
+<ruby><rb>今宵</rb><rt>こよい</rt></ruby>は<ruby><rb>雪</rb><rt>せつ</rt><rb>月</rb><rt>げつ</rt><rb>花</rb><rt>か</rt></ruby><br>
 
 ほい!　いよーーーーっぽんっ!<br>
 ハッハッハッハッハッハッハイヤ<br>
@@ -98,75 +81,39 @@ published: true
 <ruby><rb>迷</rb><rt>まよ</rt></ruby>い<ruby><rb>一</rb><rt>ひと</rt></ruby>つなく<ruby><rb>踊</rb><rt>おど</rt></ruby>りだす<br>
 
 はぁ〜<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
 <ruby><rb>華麗</rb><rt>かれい</rt></ruby>に<ruby><rb>花弁</rb><rt>かべん</rt></ruby>　<ruby><rb>散</rb><rt>ち</rt></ruby>らす<ruby><rb>様</rb><rt>よう</rt></ruby>に<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
 <ruby><rb>髪</rb><rt>かみ</rt></ruby>も<ruby><rb>振</rb><rt>ふ</rt></ruby>り<ruby><rb>乱</rb><rt>みだ</rt></ruby>して<br>
 
-<ruby><rb>一昨日</rb><rt>おととい</rt></ruby>　<ruby><rb>昨日</rb><rt>きのう</rt></ruby><br>
-<ruby><rb>今日</rb><rt>きょう</rt></ruby>と<ruby><rb>明日</rb><rt>あす</rt></ruby>と<ruby><rb>明後日</rb><rt>あさって</rt></ruby>と<br>
+<ruby><rb>一昨日</rb><rt>おととい</rt></ruby>　<ruby><rb>昨日</rb><rt>きのう</rt></ruby>　<ruby><rb>今日</rb><rt>きょう</rt></ruby>と<ruby><rb>明日</rb><rt>あす</rt></ruby>と<ruby><rb>明後日</rb><rt>あさって</rt></ruby>と<br>
 この<ruby><rb>宴</rb><rt>うたげ</rt></ruby>は<ruby><rb>続</rb><rt>つづ</rt></ruby>く<br>
-<ruby><rb>踊</rb><rt>おど</rt></ruby>レ　<ruby><rb>歌</rb><rt>うた</rt></ruby>え<br>
-<ruby><rb>一心不乱</rb><rt>いっしんふらん</rt></ruby>に<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
-<ruby><rb>今宵</rb><rt>こよい</rt></ruby>は
-<ruby><rb>雪</rb><rt>せつ</rt></ruby>
-<ruby><rb>月</rb><rt>げつ</rt></ruby>
-<ruby><rb>花</rb><rt>か</rt></ruby><br>
+<ruby><rb>踊</rb><rt>おど</rt></ruby>レ　<ruby><rb>歌</rb><rt>うた</rt></ruby>え　<ruby><rb>一心不乱</rb><rt>いっしんふらん</rt></ruby>に<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
+<ruby><rb>今宵</rb><rt>こよい</rt></ruby>は<ruby><rb>雪</rb><rt>せつ</rt><rb>月</rb><rt>げつ</rt><rb>花</rb><rt>か</rt></ruby><br>
 
 ハッハッハッハッハッハッハイヤ<br>
 ハッハッハッハッハッハッ<br>さぁさぁさぁ<br>
 ハッハッハッハッハッハッハイヤ<br>
 ハッハッハッハッハッハ（はー）<br>
 
-<ruby><rb>花</rb><rt>はな</rt></ruby>で<ruby><rb>一</rb><rt>ひと</rt></ruby>つ　<ruby><rb>鳥</rb><rt>とり</rt></ruby>で<ruby><rb>二</rb><rt>ふた</rt></ruby>つ<br>
-<ruby><rb>手打</rb><rt>てう</rt></ruby>ち<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
-<ruby><rb>風</rb><rt>かぜ</rt></ruby>で<ruby><rb>三</rb><rt>みっ</rt></ruby>つ　<ruby><rb>嗚呼</rb><rt>ああ</rt></ruby><ruby><rb>月出</rb><rt>つきで</rt></ruby>て<ruby><rb>四</rb><rt>よっ</rt></ruby>つ<br>
-<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
-<ruby><rb>花</rb><rt>はな</rt></ruby>で<ruby><rb>一</rb><rt>ひと</rt></ruby>つ　<ruby><rb>鳥</rb><rt>とり</rt></ruby>で<ruby><rb>二</rb><rt>ふた</rt></ruby>つ<br>
-<ruby><rb>手打</rb><rt>てう</rt></ruby>ち<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
-<ruby><rb>風</rb><rt>かぜ</rt></ruby>で<ruby><rb>三</rb><rt>みっ</rt></ruby>つ　<ruby><rb>嗚呼</rb><rt>ああ</rt></ruby><ruby><rb>月出</rb><rt>つきで</rt></ruby>て<ruby><rb>四</rb><rt>よっ</rt></ruby>つ<br>
-<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
+<ruby><rb>花</rb><rt>はな</rt></ruby>で<ruby><rb>一</rb><rt>ひと</rt></ruby>つ　<ruby><rb>鳥</rb><rt>とり</rt></ruby>で<ruby><rb>二</rb><rt>ふた</rt></ruby>つ　<ruby><rb>手打</rb><rt>てう</rt></ruby>ち<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
+<ruby><rb>風</rb><rt>かぜ</rt></ruby>で<ruby><rb>三</rb><rt>みっ</rt></ruby>つ<ruby><rb>嗚呼</rb><rt>ああ</rt></ruby><ruby><rb>月出</rb><rt>つきで</rt></ruby>て<ruby><rb>四</rb><rt>よっ</rt></ruby>つ　<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
+<ruby><rb>花</rb><rt>はな</rt></ruby>で<ruby><rb>一</rb><rt>ひと</rt></ruby>つ　<ruby><rb>鳥</rb><rt>とり</rt></ruby>で<ruby><rb>二</rb><rt>ふた</rt></ruby>つ　<ruby><rb>手打</rb><rt>てう</rt></ruby>ち<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
+<ruby><rb>風</rb><rt>かぜ</rt></ruby>で<ruby><rb>三</rb><rt>みっ</rt></ruby>つ<ruby><rb>嗚呼</rb><rt>ああ</rt></ruby><ruby><rb>月出</rb><rt>つきで</rt></ruby>て<ruby><rb>四</rb><rt>よっ</rt></ruby>つ　<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<br>
 
 <ruby><rb>今</rb><rt>いま</rt></ruby>は~<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
 <ruby><rb>華麗</rb><rt>かれい</rt></ruby>に<ruby><rb>花弁</rb><rt>かべん</rt></ruby>　<ruby><rb>散</rb><rt>ち</rt></ruby>らす<ruby><rb>様</rb><rt>よう</rt></ruby>に<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ
-<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
+<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<ruby><rb>回</rb><rt>まわ</rt></ruby>レ　まわレ<br>
 <ruby><rb>髪</rb><rt>かみ</rt></ruby>も<ruby><rb>振</rb><rt>ふ</rt></ruby>り<ruby><rb>乱</rb><rt>みだ</rt></ruby>して<br>
-<ruby><rb>一昨日</rb><rt>おととい</rt></ruby>　<ruby><rb>昨日</rb><rt>きのう</rt></ruby><br>
-<ruby><rb>今日</rb><rt>きょう</rt></ruby>と<ruby><rb>明日</rb><rt>あす</rt></ruby>と<ruby><rb>明後日</rb><rt>あさって</rt></ruby>と<br>
+<ruby><rb>一昨日</rb><rt>おととい</rt></ruby>　<ruby><rb>昨日</rb><rt>きのう</rt></ruby>　<ruby><rb>今日</rb><rt>きょう</rt></ruby>と<ruby><rb>明日</rb><rt>あす</rt></ruby>と<ruby><rb>明後日</rb><rt>あさって</rt></ruby>と<br>
 この<ruby><rb>宴</rb><rt>うたげ</rt></ruby>は<ruby><rb>続</rb><rt>つづ</rt></ruby>く<br>
-<ruby><rb>踊</rb><rt>おど</rt></ruby>レ　<ruby><rb>歌</rb><rt>うた</rt></ruby>え<br>
-<ruby><rb>一心不乱</rb><rt>いっしんふらん</rt></ruby>に<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
-<ruby><rb>今宵</rb><rt>こよい</rt></ruby>は<ruby><rb>何</rb><rt>なん</rt></ruby><ruby><rb>曜日</rb><rt>ようび</rt></ruby>か?<br>
-<ruby><rb>水</rb><rt>すい</rt></ruby><ruby><rb>木</rb><rt>もく</rt></ruby><ruby><rb>金</rb><rt>きん</rt></ruby>?<ruby><rb>土</rb><rt>ど</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby><ruby><rb>月</rb><rt>げつ</rt></ruby><ruby><rb>火</rb><rt>か</rt></ruby>?<br>
+<ruby><rb>踊</rb><rt>おど</rt></ruby>レ　<ruby><rb>歌</rb><rt>うた</rt></ruby>え　<ruby><rb>一心不乱</rb><rt>いっしんふらん</rt></ruby>に<ruby><rb>回</rb><rt>まわ</rt></ruby>レ<br>
+<ruby><rb>今宵</rb><rt>こよい</rt></ruby>は<ruby><rb>何</rb><rt>なん</rt></ruby><ruby><rb>曜日</rb><rt>ようび</rt></ruby>か？　<ruby><rb>水</rb><rt>すい</rt></ruby><ruby><rb>木</rb><rt>もく</rt></ruby><ruby><rb>金</rb><rt>きん</rt></ruby>？<ruby><rb>土</rb><rt>ど</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby><ruby><rb>月</rb><rt>げつ</rt></ruby><ruby><rb>火</rb><rt>か</rt></ruby>？<br>
 
 ハッハッハッハッハッハッハイヤ<br>
 ハッハッハッハッ<br>

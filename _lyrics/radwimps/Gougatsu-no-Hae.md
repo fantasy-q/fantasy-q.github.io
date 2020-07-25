@@ -29,8 +29,8 @@ published: true
 
 <ruby><rb>僕</rb><rt>ぼく</rt></ruby>は<ruby><rb>君</rb><rt>きみ</rt></ruby>を<ruby><rb>許</rb><rt>ゆる</rt></ruby>さないよ<br><ruby><rb>何</rb><rt>なに</rt></ruby>があ　っても<ruby><rb>許</rb><rt>ゆる</rt></ruby>さない<br>よ<ruby><rb>君</rb><rt>きみ</rt></ruby>の<ruby><rb>愛</rb><rt>あい</rt></ruby>する　<ruby><rb>我</rb><rt>わ</rt></ruby>が<ruby><rb>子</rb><rt>こ</rt></ruby><br>がいつか<ruby><rb>物心</rb><rt>ものごころ</rt></ruby>　つくとこう<br><ruby><rb>言</rb><rt>い</rt></ruby>って<ruby><rb>喚</rb><rt>わめ</rt></ruby>き<ruby><rb>出</rb><rt>だ</rt></ruby>すんだ<br>
 
-「お<ruby><rb>母</rb><rt>かあ</rt></ruby>さんねぇなんで<br>&emsp;&emsp;アタシを<ruby><rb>産</rb><rt>う</rt></ruby>んだのよ」<br>
-（―――<ruby><rb>繰</rb><rt>く</rt></ruby>り<ruby><rb>返</rb><rt>がえ</rt></ruby>し　×３―――）<br>「<ruby><rb>母</rb><rt>かあ</rt></ruby>さんの<ruby><rb>子</rb><rt>こ</rt></ruby>に　なんて<br>&emsp;&emsp;<ruby><rb>産</rb><rt>う</rt></ruby>まれなきゃよかった」<br>
+「お<ruby><rb>母</rb><rt>かあ</rt></ruby>さんねぇなんで＇<br>　　アタシを<ruby><rb>産</rb><rt>う</rt></ruby>んだのよ」<br>
+「<ruby><rb>母</rb><rt>かあ</rt></ruby>さんの<ruby><rb>子</rb><rt>こ</rt></ruby>になん　て<ruby><rb>産</rb><rt>う</rt></ruby>まれな<br>　　きゃよかった」<sub>×３</sub><br>
 
 そこへ　<ruby><rb>僕</rb><rt>ぼく</rt></ruby>が<ruby><rb>颯爽</rb><rt>さっそう</rt></ruby>　と<ruby><rb>現</rb><rt>あらわ</rt></ruby>れて<br><ruby><rb>両</rb><rt>りょう</rt></ruby>の<ruby><rb>腕</rb><rt>うで</rt></ruby>で<ruby><rb>彼女</rb><rt>かのじょ</rt></ruby>をそ　っと<ruby><rb>抱</rb><rt>だ</rt></ruby>き<br><ruby><rb>締</rb><rt>し</rt></ruby>めるんだ　<ruby><rb>君</rb><rt>きみ</rt></ruby>は<ruby><rb>何</rb><rt>なに</rt></ruby>も<ruby><rb>悪</rb><rt>わる</rt></ruby>くない<br>よ<ruby><rb>悪</rb><rt>わる</rt></ruby>くない　よ<ruby><rb>悪</rb><rt>わる</rt></ruby>くない　から<br>
 

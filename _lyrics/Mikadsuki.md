@@ -3,10 +3,11 @@ layout: lyric
 title: ミカヅキ
 categories: lyric
 links: 
+  Youtube: https://www.youtube.com/watch?v=65BAeDpwzGY
 description: >
   <ruby><rb>酸欠少女</rb><rt>さんけつしょうじょ</rt></ruby> さユり ― Mikazuki<br>
   作詞：さユり<br>
-  作曲：さユり<br>
+  作曲：さユり
 published: true
 ---
 

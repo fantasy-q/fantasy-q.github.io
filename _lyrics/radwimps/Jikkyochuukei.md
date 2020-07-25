@@ -3,7 +3,7 @@ layout: lyric
 categories: lyric radwimps
 title: 実況中継
 links:
-  YouTube: https://www.youtube.com/watch?v=shm9b1AB9no
+  YouTube: https://www.youtube.com/watch?v=toR7LIGVj0Q
 description: >
   RADWIMPS &ndash; Jikkyochuukei<br>
   「×と○と罪と」<sub>2013年12月11日</sub><br>
