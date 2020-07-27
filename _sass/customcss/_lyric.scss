@@ -46,3 +46,51 @@
         }
     }    
 }
+
+// 中文
+.lyric-title-cn {
+    font-family: $sh-sf-h-cn;
+    font-size: $h0;
+}
+
+.lyric-description-cn {
+    font-family: $sh-sf-sb-cn;
+    font-size: $h3;
+    line-height: $h0;
+}
+
+.lyric-link-cn {
+    font-size: $h4;
+    & span {
+        font-family: $sh-sf-sb-cn;
+    }
+    & a {
+        font-family: $sh-sf-exl-cn;
+    }
+}
+
+.lyric-content-cn  {
+    & p {
+        font-family: $sh-sf-l-cn;
+        font-size: $h2;
+        line-height: $h0;
+    }
+    & p rt {
+        font-family: $sh-sf-b-cn;
+    }
+    & sup, sub {
+        font-size: $h7;
+    }
+    & h1, h2, h3, h4, h5, h6 {
+        text-align: left;
+    }
+    & .footnotes {
+        line-height: $h6;
+        & p {
+            font-size: $h6;
+            line-height: $h5;
+            text-align: left;
+        }
+    }    
+}
+

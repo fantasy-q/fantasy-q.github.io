@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="post-header mb2 center">
+  <h1 class="lyric-title">{{ page.title }}</h1>
+  <div class="lyric-description-cn mb1">
+    {{ page.description }}<br>
+  </div>
+  <div class="lyric-link-cn">
+    {% if page.links %}
+    <span>LINKs: </span>
+    {% for link in page.links %}
+    <a href={{ link[1] }} target="_blank" style="text-decoration:none">{{ link[0] }}</a>&emsp;
+    {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+<hr>
+<article class="lyric-content-cn center">
+  {{ content }}
+</article>
+
+<!-- 
+    {% if page.description %}
+    {% for text in page.description %}
+    {{ text[1] }}<br>
+    {% endfor %}
+    {% endif %}
+  -->
+
