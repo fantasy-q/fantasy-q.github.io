@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  CSS
-date:   
 summary: 关于 CSS 中字体的一些相关内容
 categories: note
 published: false
@@ -15,8 +14,11 @@ published: false
 
 ### 选择器
 
-- [标签选择器](#标签选择器)
-- [类选择器](#类选择器)
+- [优先级](#优先级)
+- [选择器](#选择器)
+  - [标签选择器](#标签选择器)
+  - [类选择器](#类选择器)
+- [继承](#继承)
 
 
 #### 标签选择器

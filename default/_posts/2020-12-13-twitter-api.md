@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 关于 Twitter API
-categories: miscs
-summary: 
+date:   2020-12-13 02:30:00 +0800
+categories: note
 published: true
 ---
 
@@ -15,7 +15,7 @@ published: true
 
 ```
 
-但好像没有效果，稍微研究一下。Twitter [Developer](https://developer.twitter.com/en) 以及 [Document](https://developer.twitter.com/en/docs/twitter-api)。
+但好像没有效果，稍微研究一下：Twitter [Developer](https://developer.twitter.com/en) 以及 [Document](https://developer.twitter.com/en/docs/twitter-api)。
 
 ## Getting started
 
@@ -33,7 +33,7 @@ API 用于程序地获取和分析数据，或者与推特互动，并提供下�
 - 媒体 Media
 - 地区 Places
 
-目前 (2020/12/13) 提供两个版本，具体查看[这里](https://developer.twitter.com/en/docs/twitter-api/getting-started/guide)。
+目前提供两个版本，具体查看[这里](https://developer.twitter.com/en/docs/twitter-api/getting-started/guide)。
 
 应该是要使用 **[Standard v1.1](https://developer.twitter.com/en/docs/twitter-api/v1)** 中的 Retrieve timelines。
 
@@ -48,7 +48,7 @@ API 用于程序地获取和分析数据，或者与推特互动，并提供下�
 I'm new to web development. Recently I'm reading Head First HTML5 Programming and learning web development. There is a project that used Twitter API to get user timeline then show on the page in this book. I want to try to implement this project as this book does. Please give me approval, thank you!
 ```
 
-不知道能不能通过 (2020/12/13)。
+不知道能不能通过。
 
 #### Step two: Save your App's key and tokens and keep them secure
 
