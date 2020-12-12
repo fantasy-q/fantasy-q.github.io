@@ -2,7 +2,7 @@
 layout: note
 title: "板绘"
 categories: miscs
-published: true
+published: false
 ---
 
 ## 板绘能力地图

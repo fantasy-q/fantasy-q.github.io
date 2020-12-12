@@ -9,11 +9,11 @@ links:
 description: >
   RADWIMPS &ndash; Hyperventilation<br>
   「携帯電話」<sub>2010年6月30日</sub><br>
-  作詞・作曲：野田洋次郎<br>
+  作詞・作曲：野田洋次郎
 published: true
 ---
 
-Now-everybody<br>come-to-the dance floor<br>I don't-need-a pistol<br>give-me the mi(c)<br>c-and-then-a pencil<br> &quot;Bristle&quot;-is<br>my lifetime momentous<br>yes-I'm doing pretty well<br>these day. But-I'll-be there<br>when you're scared<br>eating pills-in-everyday.<br>If-you die so-am-I<br>let's go heaven-and-say &quot;hi&quot;<br>brothers-and<br>sisters-and<br>teachers-now thank you<br>for Nice, kind-time-I<br>might-not-like-you guys<br>
+Now-everybody<br>come-to-the dance floor<br>I don't-need-a pistol<br>give-me the mi(c)<br>c-and-then-a pencil<br> &quot;Bristle&quot;-is<br>my lifetime momentous<br>yes-I'm doing pretty well<br>these day. But-I'll-be there<br>when you're scared<br>eating pills-in-everyday.<br>If-you die so-am-I<br>let's go heaven-and-say &quot;hi&quot;<br>brothers-and sisters-and<br>teachers-now thank you<br>for Nice, kind-time-I<br>might-not-like-you guys<br>
 
 Oops, now-everybody<br>come say hey(hey)<br>Up-side-down-I kind-of-<br>find my way<br>Today's the day<br>but-honey by the way<br>What-are-you gonna-to-do<br>my boobs-is-it-okay?<br>
 

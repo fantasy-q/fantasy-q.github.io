@@ -14,8 +14,7 @@ permalink: /lyric
 
 {% assign posts_count = site.lyrics | size %}
 
-<!-- {% include pagination.html %} -->
-<hr>
+<!-- {% include pagination.html %} <hr>-->
 <div class="home">
   {% if posts_count > 0 %} 
   <div class="posts">

@@ -44,7 +44,7 @@ Non-stopping girl-s running boy(s)<br>[s]I'll be there for-all-of-you<br>
 Shout-it-out born-it-out<br>yah whatever hungry<br>Blue yellow green purple dream<br>scramble-egg-vanilla frost<br>
 Running tear(s)-scar-s<br>tissues-and-insanity-as-well<br>
 
-やまないでよ　<ruby><rb>運命</rb><rt>うんめい</rt></ruby>の<ruby><rb>雨</rb><rt>あめ</rt></ruby>よ<br>
+<ruby><rb>止</rb><rt>や</rt></ruby>まないでよ　<ruby><rb>運命</rb><rt>うんめい</rt></ruby>の<ruby><rb>雨</rb><rt>あめ</rt></ruby>よ<br>
 <ruby><rb>剥</rb><rt>は</rt></ruby>がさないでよ　<ruby><rb>愛</rb><rt>あい</rt></ruby>の<ruby><rb>瘡蓋</rb><rt>かさぶた</rt></ruby>を<br>
 
 （<ruby><rb>間奏</rb><rt>かんそう</rt></ruby>　<ruby><rb>約</rb><rt>やく</rt></ruby>45<ruby><rb>秒</rb><rt>びょう</rt></ruby>　04: 57<ruby><rb>迄</rb><rt>まで</rt></ruby>）
@@ -54,9 +54,9 @@ Running tear(s)-scar-s<br>tissues-and-insanity-as-well<br>
 もの<ruby><rb>足</rb><rt>た</rt></ruby>りない　しもう　くだらない<br>でも<ruby><rb>止</rb><rt>やめ</rt></ruby>られないってくらい　<ruby><rb>素晴</rb><rt>すば</rt></ruby>らしい<br>そんな　<ruby><rb>無名</rb><rt>&ensp;む&ensp;めい</rt></ruby><ruby><rb>未来</rb><rt>&ensp;み&ensp;らい</rt></ruby>　<ruby><rb>見</rb><rt>み</rt></ruby>つ　けてみたいよ<br><ruby><rb>苦</rb><rt>にが</rt></ruby>い　<ruby><rb>苦</rb><rt>にが</rt></ruby>い　<ruby><rb>願</rb><rt>ねが</rt></ruby>い<br>
 
 <ruby><rb>悲</rb><rt>かな</rt></ruby>しみに<ruby><rb>優</rb><rt>やさ</rt></ruby>しさ<ruby><rb>足</rb><rt>た</rt></ruby>すと<ruby><rb>平和</rb><rt>へいわ</rt></ruby>に<br>
-<ruby><rb>平和</rb><rt>へい&ensp;わ&ensp;</rt></ruby>に<ruby><rb>痛</rb><rt>いた</rt></ruby>みを<ruby><rb>足</rb><rt>た</rt></ruby>すと　<ruby><rb>怒</rb><rt>いか</rt></ruby>りに<br>
+<ruby><rb>平和</rb><rt>へい&ensp;わ&ensp;</rt></ruby>に<ruby><rb>痛</rb><rt>いた</rt></ruby>みを<ruby><rb>足</rb><rt>た</rt></ruby>す　と<ruby><rb>怒</rb><rt>いか</rt></ruby>りに<br>
 <ruby><rb>怒</rb><rt>いか</rt></ruby>りに<ruby><rb>温</rb><rt>ぬく</rt></ruby>もりを<ruby><rb>足</rb><rt>た</rt></ruby>す　と<ruby><rb>涙</rb><rt>なみだ</rt></ruby>に<br>
-<ruby><rb>涙</rb><rt>なみだ</rt></ruby>に<ruby><rb>涙</rb><rt>なみだ</rt></ruby>を<ruby><rb>足</rb><rt>た</rt></ruby>すと　カラカラに<br>
+<ruby><rb>涙</rb><rt>なみだ</rt></ruby>に&ensp;<ruby><rb>涙</rb><rt>なみだ</rt></ruby><ruby><rb>足</rb><rt>た</rt></ruby>すと　カラカラに<br>
 
 その<ruby><rb>声</rb><rt>こえ</rt></ruby>に<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>足</rb><rt>た</rt></ruby>す　と<ruby><rb>言葉</rb><rt>ことば</rt></ruby>に<br>
 <ruby><rb>言葉</rb><rt>ことば</rt></ruby>に<ruby><rb>愛</rb><rt>あい</rt></ruby>を<ruby><rb>足</rb><rt>た</rt></ruby>すとたちまちに<br>
