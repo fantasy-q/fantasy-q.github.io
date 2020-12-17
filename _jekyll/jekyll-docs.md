@@ -8,34 +8,34 @@ published: true
 ---
 
 - [GETTING STARTED](#getting-started)
-- [快速开始](#quickstart)
-	- [安装](#installation)
+- [QuickStart](#quickstart)
+	- [Installation](#installation)
 - [Ruby 101](#ruby-101)
-	- [Gems文件](#gems)
-	- [Gemfile文件](#gemfile)
-	- [Bundler包](#bundler)
+	- [Gems](#gems)
+	- [Gemfile](#gemfile)
+	- [Bundler](#bundler)
 - [CONTENT](#content)
-- [YAML头部信息](#front-matter)
-	- [预定义全局变量](#predefined-global-variables)
-	- [自定变量](#custom-variables)
-	- [预定义文章变量](#predefined-variables-for-posts)
-- [集合](#collections)
-	- [准备](#setup)
-	- [添加内容](#add-content)
+- [Front Matter](#front-matter)
+	- [Predefined Global Variables](#predefined-global-variables)
+	- [Custom Variables](#custom-variables)
+	- [Predefined Variables for Posts](#predefined-variables-for-posts)
+- [Collections](#collections)
+	- [Setup](#setup)
+	- [Add content](#add-content)
 - [SITE STRUCTURE](#site-structure)
-- [目录结构](#directory-structure)
-- [Liquid模板](#liquid)
-	- [滤器](#filters)
-	- [标签](#tags)
-		- [包含文件](#includes)
-		- [代码片段高亮](#code-snippet-highlighting)
-			- [行号](#line-numbers)
-			- [语法高亮样式表](#stylesheets-for-syntax-highlighting)
-	- [链接](#links)
-		- [连接到页面](#linking-to-pages)
-- [变量](#variables)
-	- [全局变量](#global-variables)
-- [参考](#references)
+- [Directory Structure](#directory-structure)
+- [Liquid](#liquid)
+	- [Filters](#filters)
+	- [Tags](#tags)
+		- [Includes](#includes)
+		- [Code snippet highlighting](#code-snippet-highlighting)
+			- [Line numbers](#line-numbers)
+			- [Stylesheets for syntax highlighting](#stylesheets-for-syntax-highlighting)
+	- [Links](#links)
+		- [Linking to pages](#linking-to-pages)
+- [Variables](#variables)
+	- [Global Variables](#global-variables)
+				- [References](#references)
 
 ## GETTING STARTED
 ## QuickStart
@@ -64,7 +64,7 @@ jekyll new myblog
 ```
 cd myblog
 ```
-5. 搭建网站并让它哟行在本地服务器。
+5. 搭建网站并让它运行在本地服务器。
 ```
 bundle exec jekyll serve
 # 自定义HOST：--host=HOST

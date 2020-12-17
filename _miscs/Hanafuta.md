@@ -3,11 +3,10 @@ layout: notejp
 title:  "花札"
 categories: default
 summary: 
-published: true
+published: false
 ---
 
 ### <ruby><rb>札<rt>ふだ
-
 
 
 |  月  |  花  |  光  |  種  |  短冊  | カス |

@@ -1,54 +1,57 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/custom-variables.scss` to override variable defaults)
 .jp {
-    & p {
-        font-family: $sh-sf-l-jp;
-        font-size: $h2;
-        line-height: $h0;
+  & p {
+    font-family: $sh-sf-l-jp;
+    font-size: $h2;
+    line-height: $h0;
+  }
+
+  & p rt {
+    font-family: $sh-sf-b-jp;
+  }
+
+  & table {
+    & th td {
+      font-family: $sh-sf-h-jp;
     }
-    & p rt {
-        font-family: $sh-sf-b-jp;
-    }
-    & table {
-        & th td {
-            font-family: $sh-sf-h-jp;
-        }
-    }
+  }
 }
 
-h1{
-    font-family: $sh-sf-h-cn;
-    font-size: $h0;
+h1 {
+  font-family: $sh-sf-h-cn;
+  font-size: $h0;
 }
 
-h2{
-    font-family: $sh-sf-b-cn;
+h2 {
+  font-family: $sh-sf-b-cn;
 }
 
 h3 {
-    font-family: $sh-sf-m-cn;
+  font-family: $sh-sf-m-cn;
 }
 
-h4, h5, h6, {
-    font-family: $sh-sf-r-cn;
+h4,
+h5,
+h6 {
+  font-family: $sh-sf-r-cn;
 }
 
 .post-content {
-    font-family: $sh-sf-r-cn;
+  font-family: $sh-sf-r-cn;
 }
 
 .post-summary {
-    font-family: $sh-sf-r-cn;
+  font-family: $sh-sf-r-cn;
 }
 
 code {
-    color: #7a7a7a;
-    font-family: Menlo, Monaco, "Courier New", monospace;
-    font-size: 0.825rem;
+  color: #7a7a7a;
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-size: 0.825rem;
 }
 
 table {
-    font-size: 0.825rem;
-    // font-size: 1rem;
+  font-size: 0.825rem;
+  // font-size: 1rem;
 }
-
