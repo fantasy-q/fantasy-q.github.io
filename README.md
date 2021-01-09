@@ -1,2 +1,2 @@
-# fantasy-q.github.io
+# [fantasy-q.github.io](https://fantasy-q.github.io/)
  
