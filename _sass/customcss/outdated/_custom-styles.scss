@@ -2,48 +2,50 @@
 // (Use `_sass/custom-variables.scss` to override variable defaults)
 .jp {
   & p {
-    font-family: $sh-sf-l-jp;
+    font-family: 'Noto Serif JP', serif;
+    font-weight: $Light;
     font-size: $h2;
     line-height: $h0;
   }
 
   & p rt {
-    font-family: $sh-sf-b-jp;
+    font-family: 'Noto Serif JP', serif;
+    font-weight: $Bold;
   }
 
   & table {
     & th td {
-      font-family: $sh-sf-h-jp;
+      font-family: 'Noto Serif JP', serif;
+      font-weight: $Black;
     }
   }
 }
 
 h1 {
-  font-family: $sh-sf-h-cn;
+  font-family: 'Noto Serif SC', serif;
+  font-weight: $Black;
   font-size: $h0;
 }
 
 h2 {
-  font-family: $sh-sf-b-cn;
+  font-family: 'Noto Serif SC', serif;
+  font-weight: $Bold;
 }
 
 h3 {
-  font-family: $sh-sf-m-cn;
+  font-family: 'Noto Serif SC', serif;
+  font-weight: $Medium;
 }
 
 h4,
 h5,
-h6 {
-  font-family: $sh-sf-r-cn;
-}
-
-.post-content {
-  font-family: $sh-sf-r-cn;
-}
-
+h6,
+.post-content,
 .post-summary {
-  font-family: $sh-sf-r-cn;
+  font-family: 'Noto Serif SC', serif;
+  font-weight: $Regular;
 }
+
 
 code {
   color: #7a7a7a;
@@ -55,3 +57,5 @@ table {
   font-size: 0.825rem;
   // font-size: 1rem;
 }
+
+.

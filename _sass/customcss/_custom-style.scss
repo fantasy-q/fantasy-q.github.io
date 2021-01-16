@@ -1,0 +1,32 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/custom-variables.scss` to override variable defaults)
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Noto Serif SC', serif;
+  font-weight: $Black;
+}
+
+.post-link .post-title {
+  font-family: 'Noto Serif SC', serif;
+  font-weight: $Black;
+}
+
+.post-content {
+  font-family: 'Noto Sans SC', sans-serif;
+  font-weight: $Regular;
+}
+
+.post-summary {
+  font-family: 'Noto Sans SC', sans-serif;
+  font-weight: $Regular;
+}
+
+a {
+  color: #235ea7;
+  text-decoration: none;
+}

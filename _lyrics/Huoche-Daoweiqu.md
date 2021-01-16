@@ -1,5 +1,6 @@
 ---
-layout: lyric-cn
+layout: lyric
+language: tc
 title: 火車叨位去
 categories: lyric
 links:
@@ -7,9 +8,9 @@ links:
   知乎: https://www.zhihu.com/question/65476327/answer/231462950
   嗶哩嗶哩: https://www.bilibili.com/video/BV1fx411N7bU?p=29
 description: >
-  周杰倫 火車叨位去<br>
+  周杰倫—火車叨位去<br>
   曲:周杰倫  詞:方文山
-published: false
+published: true
 ---
 
 <ruby><rb>聽</rb><rt>thiann</rt></ruby>　 <ruby><rb>我</rb><rt>guá</rt></ruby>　<ruby><rb>講</rb><rt>kóng</rt></ruby>　<br>

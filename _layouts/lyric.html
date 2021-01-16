@@ -1,28 +1,26 @@
 ---
 layout: default
 ---
-
-<div class="post-header mb2 center">
-  <h1 class="lyric-title">{{ page.title }}</h1>
-  
-  <div class="lyric-description mb1">
-    {{ page.description }}<br>
+<div class="{{ page.language | default: 'jp' }}">
+  <div class="post-header mb2 center">
+    <h1 class="lyric-title noto serif black h0">{{ page.title }}</h1>
+    <div class="lyric-description mb1 noto serif bold h3">
+      {{ page.description }}<br>
+    </div>
+    <div class="lyric-link">
+      {% if page.links %}
+      <span>LINKs: </span>
+      {% for link in page.links %}
+      <a href={{ link[1] }} target="_blank" style="text-decoration:none">{{ link[0] }}</a>&emsp;
+      {% endfor %}
+      {% endif %}
+    </div>
   </div>
-  <div class="lyric-link">
-    {% if page.links %}
-    <span>LINKs: </span>
-    {% for link in page.links %}
-    <a href={{ link[1] }} target="_blank" style="text-decoration:none">{{ link[0] }}</a>&emsp;
-    {% endfor %}
-    {% endif %}
-  </div>
+  <hr>
+  <article class="lyric-content center markdown">
+    {{ content }}
+  </article>
 </div>
-
-<hr>
-<article class="lyric-content center">
-  {{ content }}
-</article>
-
 <!-- 
     {% if page.description %}
     {% for text in page.description %}
@@ -30,4 +28,3 @@ layout: default
     {% endfor %}
     {% endif %}
   -->
-

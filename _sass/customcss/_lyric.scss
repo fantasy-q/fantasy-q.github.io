@@ -2,12 +2,10 @@
 // (Use `_sass/custom-variables.scss` to override variable defaults)
 
 .lyric-title {
-  font-family: $sh-sf-h-jp;
   font-size: $h0;
 }
 
 .lyric-description {
-  font-family: $sh-sf-sb-jp;
   font-size: $h3;
   line-height: $h0;
 }
@@ -16,37 +14,80 @@
   font-size: $h4;
 
   & span {
-    font-family: $sh-sf-sb-jp;
+    font-family: 'Noto Serif JP', serif;
+    font-weight: $Semi-bold;
   }
 
   & a {
-    font-family: $sh-sf-exl-jp;
+    font-family: 'Noto Serif JP', serif;
+    font-weight: $Extra-light;
   }
 }
 
-.lyric-content {
+.jp .markdown {
   & p {
-    font-family: $sh-sf-l-jp;
+    font-family: 'Noto Serif JP', serif;
+    font-weight: $Light;
+    font-size: $h3;
+  }
+
+  & rt {
+    font-family: 'Noto Serif JP', serif;
+    font-weight: $Bold;
+  }
+
+  & sup,
+  sub {
+    font-size: $h6;
+  }
+
+  & .footnotes {
+    line-height: $h6;
+
+    & p {
+      font-size: $h6;
+      line-height: $h5;
+      text-align: left;
+    }
+  }
+}
+
+// Font Family
+.jp {
+  & .noto.serif {
+    font-family: 'Noto Serif JP', serif;
+  }
+
+  & .noto.sans {
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+}
+
+.tc {
+  & .noto.serif {
+    font-family: 'Noto Serif TC', serif;
+  }
+
+  & .noto.sans {
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+}
+
+.tc .markdown {
+  & p {
+    font-family: 'Noto Serif TC', serif;
+    font-weight: $Medium;
     font-size: $h2;
-    line-height: $h0;
   }
 
-  & p rt {
-    font-family: $sh-sf-b-jp;
+  & rt {
+    font-family: 'Noto Sans TC', serif;
+    font-weight: $Bold;
   }
 
   & sup,
   sub {
-    font-size: $h7;
-  }
-
-  & h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    text-align: left;
+    font-size: $h6;
   }
 
   & .footnotes {
@@ -60,66 +101,53 @@
   }
 }
 
-// 中文
-.lyric-title-cn {
-  font-family: $sh-sf-h-cn;
-  font-size: $h0;
+.noto.serif.sc {
+  font-family: 'Noto Serif SC', serif;
 }
 
-.lyric-description-cn {
-  font-family: $sh-sf-sb-cn;
-  font-size: $h3;
-  line-height: $h0;
+.noto.sans.sc {
+  font-family: 'Noto Sans SC', sans-serif;
 }
 
-.lyric-link-cn {
-  font-size: $h4;
 
-  & span {
-    font-family: $sh-sf-sb-cn;
-  }
 
-  & a {
-    font-family: $sh-sf-exl-cn;
-  }
+// Font Weight
+.noto.thin {
+  // 100
+  font-weight: $Thin;
 }
 
-.lyric-content-cn {
-  & p {
-    font-family: $sh-sf-b-cn;
-    font-size: 1.6rem;
-    line-height: $h0;
-  }
+.noto.ex-light {
+  // 200
+  font-weight: $Extra-light;
+}
 
-  & p rb {
-    font-family: $sh-sf-b-cn;
-  }
+.noto.light {
+  // 300
+  font-weight: $Light;
+}
 
-  & p rt {
-    font-family: $sh-sf-h-cn;
-  }
+.noto.regular {
+  // 400
+  font-weight: $Regular;
+}
 
-  & sup,
-  sub {
-    font-size: $h7;
-  }
+.noto.medium {
+  // 500
+  font-weight: $Medium;
+}
 
-  & h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    text-align: left;
-  }
+.noto.semibold {
+  // 600
+  font-weight: $Semi-bold;
+}
 
-  & .footnotes {
-    line-height: $h6;
+.noto.bold {
+  // 700
+  font-weight: $Bold;
+}
 
-    & p {
-      font-size: $h6;
-      line-height: $h5;
-      text-align: left;
-    }
-  }
+.noto.black {
+  // 900
+  font-weight: $Black;
 }

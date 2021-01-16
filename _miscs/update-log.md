@@ -1,9 +1,8 @@
 ---
 layout: note
-title:  记录
-date:   2020-07-18 02:51:07 +0800
-categories: note
-summary: 遇到的问题，自定义功能等。
+title: Update Log
+categories: miscs
+summary: Update Log
 published: true
 ---
 

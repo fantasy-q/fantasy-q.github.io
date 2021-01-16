@@ -71,7 +71,6 @@ I My Me And Mine Is Your Whatever<br>
 <ruby><rb>何</rb><rt>なん</rt>と</ruby>もう<ruby><rb>言</rb><rt>い</rt>われ</ruby>ようとも<br>
 <ruby><rb>－</rb><rt>マイナス</rt><rb>１</rb><rt>いち</rt></ruby>は<ruby><rb>愛</rb><rt>あい</rt></ruby>の<ruby><rb>２</rb><rt>じ</rt><rb>乗</rb><rt>じょう</rt></ruby>[^i2]　<ruby><rb>事情</rb><rt>じじょう</rt></ruby><br>
 
-#### 注：
 ---
 [^rahen]: **「動詞ラ行変格活用」**　[「ラ行変格」](https://www.kotenbunpou.com/用言/動詞-10-ラ行変格活用/)
 [^ku]: **「形容詞ク活用とシク活用」**　[「ク活用」](https://www.kotenbunpou.com/用言/形容詞-1-ク活用とシク活用/)

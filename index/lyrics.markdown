@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lyric
-permalink: /lyric
+title: Lyrics
+permalink: /lyrics
 ---
 
 <!-- {% for lyric in site.lyrics %}
@@ -11,9 +11,7 @@ permalink: /lyric
   </a>
 </div>
 {% endfor %} -->
-
 {% assign posts_count = site.lyrics | size %}
-
 <!-- {% include pagination.html %} <hr>-->
 <div class="home">
   {% if posts_count > 0 %} 
@@ -33,7 +31,6 @@ permalink: /lyric
     </div>
     {% endfor %}
   </div>
-
   <!-- <hr>{% include pagination.html %} -->
   {% else %}
   <h1 class='center'>{{ site.text.index.coming_soon }}</h1>

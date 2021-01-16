@@ -5,8 +5,7 @@ permalink: /miscellaneous
 ---
 
 {% assign posts_count = site.miscs | size %}
-
-{% include pagination.html %}<hr>
+<!-- {% include pagination.html %}<hr> -->
 <div class="home">
   {% if posts_count > 0 %} 
   <div class="posts">
@@ -25,8 +24,7 @@ permalink: /miscellaneous
     </div>
     {% endfor %}
   </div>
-
-  <hr>{% include pagination.html %}
+  <!-- <hr>{% include pagination.html %} -->
   {% else %}
   <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
   {% endif %}
