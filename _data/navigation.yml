@@ -4,7 +4,7 @@
   permalink: /jekyll
 - title: Miscs
   permalink: /miscellaneous
-# - title: Web
-#   permalink: /web
+- title: Web
+  permalink: /web
 - title: About
   permalink: /about

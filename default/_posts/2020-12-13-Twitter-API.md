@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于 Twitter API
-date:   2020-12-13 02:30:00 +0800
+date: 2020-12-13 02:30:00 +0800
 categories: note
 summary: 学习使用 Twitter API
 published: true

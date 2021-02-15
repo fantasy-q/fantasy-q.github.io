@@ -1,7 +1,7 @@
 ---
 layout: lyric
 categories: lyric
-title:  Mr.VIRTUALIZER
+title:  Mr. VIRTUALIZER
 links: 
   HIMEHINA: https://himehina.jp/pages/special?t=mrvirtualizer
   嗶哩嗶哩: https://www.bilibili.com/video/BV12K411K7cp
