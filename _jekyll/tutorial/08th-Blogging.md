@@ -8,19 +8,19 @@ published: true
 
 ## 目录
 
-- [一、前期准备 ](../jekyll/01st-setup.html)
-- [二、模板语言 ](../jekyll/02nd-Liquid.html)
-- [三、头部信息  ](../jekyll/03rd-Front-Matter.html)
-- [四、布局模板 ](../jekyll/04th-Layouts.html)
-- [五、包含模板 ](../jekyll/05th-Includes.html)
-- [六、数据文件 ](../jekyll/06th-Data-Files.html)
-- [七、资源素材 ](../jekyll/07th-Assets.html)
-- [八、博客写作 ](../jekyll/08th-Blogging.html)
+- [一、前期准备 ](./01st-setup.html)
+- [二、模板语言 ](./02nd-Liquid.html)
+- [三、头部信息 ](./03rd-Front-Matter.html)
+- [四、布局模板 ](./04th-Layouts.html)
+- [五、包含模板 ](./05th-Includes.html)
+- [六、数据文件 ](./06th-Data-Files.html)
+- [七、资源素材 ](./07th-Assets.html)
+- [八、博客写作 ](./08th-Blogging.html)
   - [文章](#posts)
   - [布局](#layout)
   - [列出文章](#list-posts)
-- [九、集合内容 ](../jekyll/09th-Collections.html)
-- [十、部署网站 ](../jekyll/10th-Deployment.html)
+- [九、集合内容 ](./09th-Collections.html)
+- [十、部署网站 ](./10th-Deployment.html)
 
 可你你会疑惑没有数据库怎么写博客。在真正的 Jekyll 下，博客写作只由文本文件提供支持。
 

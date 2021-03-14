@@ -8,15 +8,15 @@ published: true
 
 ## 目录
 
-- [一、前期准备 ](../jekyll/01st-setup.html)
-- [二、模板语言 ](../jekyll/02nd-Liquid.html)
-- [三、头部信息  ](../jekyll/03th-Front-Matter.html)
-- [四、布局文件 ](../jekyll/04th-Layouts.html)
-- [五、包含文件 ](../jekyll/05th-Includes.html)
-- [六、数据文件 ](../jekyll/06th-Data-Files.html)
-- [七、资源素材 ](../jekyll/07th-Assets.html)
-- [八、博客写作 ](../jekyll/08th-Blogging.html)
-- [九、集合内容 ](../jekyll/09th-Collections.html)
+- [一、前期准备 ](./01st-setup.html)
+- [二、模板语言 ](./02nd-Liquid.html)
+- [三、头部信息 ](./03th-Front-Matter.html)
+- [四、布局文件 ](./04th-Layouts.html)
+- [五、包含文件 ](./05th-Includes.html)
+- [六、数据文件 ](./06th-Data-Files.html)
+- [七、资源素材 ](./07th-Assets.html)
+- [八、博客写作 ](./08th-Blogging.html)
+- [九、集合内容 ](./09th-Collections.html)
 	- [配置](#configuration) 
 	- [添加作者](#add-authors)
 	- [职员页面](#staff-page)
@@ -24,7 +24,7 @@ published: true
 	- [头部信息缺省](#front-matter-defaults)
 	- [链接到文章](#list-authors-posts)
 	- [链接到作者页面](#link-to-authors-page)
-- [十、部署网站 ](../jekyll/10th-Deployment.html)
+- [十、部署网站 ](./10th-Deployment.html)
 
 下面看一看如何让每一个作者都能有自己的简介页面并且出版文章。
 

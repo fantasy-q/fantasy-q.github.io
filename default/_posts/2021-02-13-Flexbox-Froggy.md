@@ -2,7 +2,7 @@
 layout: post
 title: Flexbox Froggy
 date: 2021-02-13 02:30:00 +0800
-categories: default
+categories: note
 summary: a game where you help Froggy and friends by writing CSS code!
 published: true
 ---

@@ -8,19 +8,19 @@ published: true
 
 ## 目录
 
-- [一、前期准备 ](../jekyll/01st-setup.html)
-- [二、模板语言 ](../jekyll/02nd-Liquid.html)
-- [三、头部信息  ](../jekyll/03rd-Front-Matter.html)
-- [四、布局模板 ](../jekyll/04th-Layouts.html)
-- [五、包含模板 ](../jekyll/05th-Includes.html)
+- [一、前期准备 ](./01st-setup.html)
+- [二、模板语言 ](./02nd-Liquid.html)
+- [三、头部信息 ](./03rd-Front-Matter.html)
+- [四、布局模板 ](./04th-Layouts.html)
+- [五、包含模板 ](./05th-Includes.html)
 	- [包含标签](#include-tag)
 	- [包含标签用法](#include-usage)
 	- [高亮当前页面](#current-page-highlighting) 
-- [六、数据文件 ](../jekyll/06th-Data-Files.html)
-- [七、网站素材 ](../jekyll/07th-Assets.html)
-- [八、博客写作 ](../jekyll/08th-Blogging.html)
-- [九、集合内容 ](../jekyll/09th-Collections.html)
-- [十、部署网站 ](../jekyll/10th-Deployment.html)
+- [六、数据文件 ](./06th-Data-Files.html)
+- [七、网站素材 ](./07th-Assets.html)
+- [八、博客写作 ](./08th-Blogging.html)
+- [九、集合内容 ](./09th-Collections.html)
+- [十、部署网站 ](./10th-Deployment.html)
 
 网站快建好了，不过现在还不能在各个页面之间**导航**（Navigation ）。
 

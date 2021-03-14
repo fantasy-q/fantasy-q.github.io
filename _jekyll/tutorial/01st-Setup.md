@@ -8,19 +8,19 @@ published: true
 
 ## 目录
 
-- [一、前期准备 ](../jekyll/01st-setup.html)
+- [一、前期准备 ](./01st-setup.html)
 	- [安装 ](#installation)
 	- [创建站点](#create-a-site)
 	- [构建](#build)
-- [二、模板语言 ](../jekyll/02nd-Liquid.html)
-- [三、头部信息  ](../jekyll/03rd-Front-Matter.html)
-- [四、布局文件 ](../jekyll/04th-Layouts.html)
-- [五、包含文件 ](../jekyll/05th-Includes.html)
-- [六、数据文件 ](../jekyll/06th-Data-Files.html)
-- [七、网站素材 ](../jekyll/07th-Assets.html)
-- [八、博客写作 ](../jekyll/08th-Blogging.html)
-- [九、集合内容 ](../jekyll/09th-Collections.html)
-- [十、部署网站 ](../jekyll/10th-Deployment.html)
+- [二、模板语言 ](./02nd-Liquid.html)
+- [三、头部信息 ](./03rd-Front-Matter.html)
+- [四、布局文件 ](./04th-Layouts.html)
+- [五、包含文件 ](./05th-Includes.html)
+- [六、数据文件 ](./06th-Data-Files.html)
+- [七、网站素材 ](./07th-Assets.html)
+- [八、博客写作 ](./08th-Blogging.html)
+- [九、集合内容 ](./09th-Collections.html)
+- [十、部署网站 ](./10th-Deployment.html)
 
 这个教程的目的是在有一定前端 Web 开发经验的基础上，手把手教你从头开始搭建第一个 Jekyll 站点 — 即不依赖默认的主题。
 
