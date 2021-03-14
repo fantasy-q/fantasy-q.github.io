@@ -8,7 +8,7 @@ published: true
 
 ## 目录
 
-- [一、前期准备 ](./01st-setup.html)
+- [一、前期准备 ](./01st-Setup.html)
 - [二、模板语言 ](./02nd-Liquid.html)
 - [三、头部信息 ](./03rd-Front-Matter.html)
 - [四、布局模板 ](./04th-Layouts.html)
@@ -80,4 +80,4 @@ published: true
 
 ---
 ###### Links
-[[Ⅴ]](https://jekyllrb.com/docs/step-by-step/01-setup/) Includes -  Jekyll Docs Step by Step Tutorial
+[[Ⅴ]](https://jekyllrb.com/docs/step-by-step/01-Setup/) Includes -  Jekyll Docs Step by Step Tutorial

@@ -8,7 +8,7 @@ published: true
 
 ## 目录
 
-- [一、前期准备 ](./01st-setup.html)
+- [一、前期准备 ](./01st-Setup.html)
 - [二、模板语言 ](./02nd-Liquid.html)
 - [三、头部信息 ](./03th-Front-Matter.html)
   - [使用头部信息](#use-front-matter)

@@ -8,7 +8,7 @@ published: true
 
 ## 目录
 
-- [一、前期准备 ](./01st-setup.html)
+- [一、前期准备 ](./01st-Setup.html)
 	- [安装 ](#installation)
 	- [创建站点](#create-a-site)
 	- [构建](#build)
@@ -73,7 +73,7 @@ Jekyll 是一个静态网站生成器，在能看到网站之前，要先用 Jek
 
 ---
 ###### Links
-[[Ⅰ]](https://jekyllrb.com/docs/step-by-step/01-setup/) Setup - Jekyll Docs Step by Step Tutorial 
+[[Ⅰ]](https://jekyllrb.com/docs/step-by-step/01-Setup/) Setup - Jekyll Docs Step by Step Tutorial 
 
 ---
 ###### Notes

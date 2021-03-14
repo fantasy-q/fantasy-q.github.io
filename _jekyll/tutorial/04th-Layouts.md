@@ -8,7 +8,7 @@ published: true
 
 ## 目录
 
-- [一、前期准备 ](./01st-setup.html)
+- [一、前期准备 ](./01st-Setup.html)
 - [二、模板语言 ](./02nd-Liquid.html)
 - [三、头部信息 ](./03rd-Front-Matter.html)
 - [四、布局模板 ](./04th-Layouts.html)
@@ -78,4 +78,4 @@ Congratulations，你的网站现在有两个页面了！但要怎样才能实�
 
 ---
 ###### Links
-[[Ⅳ]](https://jekyllrb.com/docs/step-by-step/01-setup/) Layouts - Jekyll Docs Step by Step Tutorial
+[[Ⅳ]](https://jekyllrb.com/docs/step-by-step/01-Setup/) Layouts - Jekyll Docs Step by Step Tutorial
