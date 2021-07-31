@@ -9,7 +9,6 @@ author: Phantasma
 title: Phantasma's Blog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  慢慢来，总能学会的。
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fantasy-q.github.io/" 
